@@ -1,7 +1,11 @@
+[
 {
   "name": "Nickelodeon",
   "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A.mpd",
   "drm_scheme": "clearkey",
   "drm_license_uri": "llave.json",
   "icono": "https://i.postimg.cc/D0NFmb8V/SNT-a-o-1993.png"
-}
+      }
+    ]
+  }
+]
