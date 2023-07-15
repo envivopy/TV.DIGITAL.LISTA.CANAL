@@ -7,98 +7,98 @@
         "name": "AMERICA TV ",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/americatv.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/americatv.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/tvp.png",
         "name": "TV PUBLICA",
         "uri": "http://mtd.llc/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_url": "http://api.argentinatv.live/file2/tvp.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/tvp.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/elnueve.png",
         "name": "CANAL 9",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/elnueve.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/elnueve.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/telefe.png",
         "name": "TELEFE",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/telefe.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/telefe.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/eltrece.png",
         "name": "EL TRECE",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/eltrece.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/eltrece.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/tn.png",
         "name": "TN NOTICIAS",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/tn.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/tn.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/a24.png",
         "name": "A24",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/a24.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/a24.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/c5n.png",
         "name": "C5N",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/c5n.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/c5n.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/canal26.png",
         "name": "CANAL 26",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/canal26.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/canal26.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/cronica.png",
         "name": "CRONICA HD",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/cronica.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/cronica.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/lanacion.png",
         "name": "LN+",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/lanacion.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/lanacion.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/ip.png",
         "name": "INFORMACION PERIODISTICA",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_2A/Investigacion_Periodistica.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/ip.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/ip.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/encuentro.png",
         "name": "ENCUENTRO TV",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/encuentro.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/encuentro.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/rural.png",
         "name": "CANAL RURAL",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c6eds/Canal_Rural/SA_Live_dash_enc_2A/Canal_Rural.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/rural.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/rural.json",
       },
       {
         "icon": "https://lavozargentina.com/logochico.png",
@@ -110,7 +110,7 @@
         "name": "NET TV",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c6eds/Net_TV/SA_Live_dash_enc_2A/Net_TV.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/nettv.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/nettv.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/argentinisimasat.png",
@@ -139,7 +139,7 @@
         "name": "DIPUTADOS TV",
         "uri": "http://mtd.llc/live/c6eds/Diputados_TV/SA_Live_dash_enc_2A/Diputados_TV.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_url": "http://api.argentinatv.live/file2/diputadostv.json"  
+        "drm_license_url": "http://api.argentinatv.live/file2/diputadostv.json",  
       }                                                                         
     ]
   },
@@ -151,7 +151,7 @@
         "name": "CANAL DOCE MISIONES",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c4eds/CH_12_Posadas/SA_Live_dash_enc_2A/CH_12_Posadas.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/canal12misiones.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/canal12misiones.json",
       },
       {
         "icon": "https://tucuman.lavozargentina.com/logochicotucuman.png",
@@ -278,14 +278,14 @@
         "name": "TELEFE CORDOBA",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_2A/Canal_8_CBA.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/telefecba.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/telefecba.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/canal12cba.jpg",
         "name": "CANAL 12 CORDOBA",
         "uri": "http://cdn.tvar.io/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_url": "http://api.argentinatv.live/file2/canal12cba.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/canal12cba.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/canal10cba.jpg",
@@ -302,35 +302,35 @@
         "name": "TELEFE SANTA FE",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c6eds/Canal_13_SFE/SA_Live_dash_enc_2A/Canal_13_SFE.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/telefesfe.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/telefesfe.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/canal9litoral.png",
         "name": "Canal 9 Litoral",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c6eds/Canal_9_Parana/SA_Live_dash_enc_2A/Canal_9_Parana.mpd",
-        "drm_license_url": "https://api.argentinatv.live/file2/canal9litoral.json"
+        "drm_license_url": "https://api.argentinatv.live/file2/canal9litoral.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/teleferosario.png",
         "name": "TELEFE ROSARIO",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc_2A/Canal_5_Rosario.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/teleferosario.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/teleferosario.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/canal3rosario.png",
         "name": "CANAL 3 ROSARIO",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_2A/Canal_3_Rosario.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/canal3rosario.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/canal3rosario.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/telefeneuquen.png",
         "name": "TELEFE NEUQUEN",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc_2A/Telefe_Neuquen.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/telefeneuquen.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/telefeneuquen.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/13maxdigital.png",
@@ -342,14 +342,14 @@
         "name": "TELEFE BAHIA BLANCA",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc_2A/Canal7_Bahia_Blanca.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/canal7bahia.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/canal7bahia.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/canal7bahia.png",
         "name": "Canal Siete Bahía Blanca",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc_2A/Canal7_Bahia_Blanca.mpd",
-        "drm_license_url": "https://api.argentinatv.live/file2/canal7bahia.json"
+        "drm_license_url": "https://api.argentinatv.live/file2/canal7bahia.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/americatucuman.png",
@@ -361,20 +361,20 @@
         "name": "Canal 8 Tucuman",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_2A/Canal_8_Tucuman.mpd",
-        "drm_license_url": "https://api.argentinatv.live/file2/telefetucuman.json"
+        "drm_license_url": "https://api.argentinatv.live/file2/telefetucuman.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/canal10tucuman.png",
         "name": "CANAL 10 TUCUMAN",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc_2A/Ch10_Tucuman.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/canal10tucuman.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/canal10tucuman.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/telefesalta.png",
         "name": "TELEFE SALTA",
         "uri": "https://mtd.llc/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/telefesalta.json",
+        "drm_license_url": "http://api.argentinatv.live/file2/telefesalta.json",,
         "drm_scheme": "clearkey"
       },
       {
@@ -447,7 +447,7 @@
         "name": "CANAL DE LA CIUDAD",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc_2A/Canal_de_la_ciudad.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/canaldelaciudad.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/canaldelaciudad.json",
       }
     ]
   },
@@ -459,7 +459,7 @@
         "name": "DAZN F1",
         "drm_scheme": "clearkey",
         "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd",
-        "drm_license_url": "https://api.argentinatv.live/file2/daznf1.json"
+        "drm_license_url": "https://api.argentinatv.live/file2/daznf1.json",
       },
       {
         "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
@@ -476,13 +476,13 @@
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/espnpremium.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/espnpremium.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/tntsports.png",
         "name": "TNT SPORTS",
         "uri": "https://mtd.llc/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/tntsports.json",
+        "drm_license_url": "http://api.argentinatv.live/file2/tntsports.json",,
         "drm_scheme": "clearkey"
       },
       {
@@ -490,7 +490,7 @@
         "name": "ESPN HD",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/espn.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/espn.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/espn2.png",
@@ -504,21 +504,21 @@
         "name": "ESPN 3 HD",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/espn3.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/espn3.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/espn4.png",
         "name": "ESPN 4 HD",
         "drm_scheme": "clearkey",
         "uri": "https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file/espn4.json"
+        "drm_license_url": "http://api.argentinatv.live/file/espn4.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/espnextra.png",
         "name": "ESPN EXTRA",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd",
-        "drm_license_url": "https://api.argentinatv.live/file2/espnextra.json"
+        "drm_license_url": "https://api.argentinatv.live/file2/espnextra.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/taekwondotv.png",
@@ -530,56 +530,56 @@
         "name": "FOX SPORTS HD",
         "drm_scheme": "widevine",
         "uri": "https://edge-mix01-mus.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
-        "drm_license_url": "https://api.argentinatv.live/file/fs1.json"
+        "drm_license_url": "https://api.argentinatv.live/file/fs1.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/fs2.png",
         "name": "FOX SPORTS 2 HD",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/fs2.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/fs2.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/fs3.png",
         "name": "FOX SPORTS 3 HD",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/fs3.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/fs3.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/tycsports.png",
         "name": "TyC Sports",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/tycsports.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/tycsports.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/deportv.png",
         "name": "DEPORTV",
         "drm_scheme": "clearkey",
         "uri": "https://mtd.llc/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/deportv.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/deportv.json",
       },
       {
         "icon": "http://static.tvar.io/imagenes/dtv1.png",
         "name": "Dsport 1",
         "drm_scheme": "clearkey",
         "uri": "http://eze-1.onevideo.net/dtv1.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/dtv1.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/dtv1.json",
       },
       {
         "icon": "http://static.tvar.io/imagenes/dtv2.png",
         "name": "Dsport 2",
         "drm_scheme": "clearkey",
         "uri": "http://eze-1.onevideo.net/dtv2.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/dtv2.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/dtv2.json",
       },
       {
         "icon": "http://static.tvar.io/imagenes/dtv3.png",
         "name": "Dsport 3",
         "drm_scheme": "clearkey",
         "uri": "https://dtvott-bpk-bpk.akamaized.net/dash_live_1071/manifest.mpd?da=0&country=AR&accountType=DTH",
-        "drm_license_url": "http://api.argentinatv.live/file2/dtv3.json"
+        "drm_license_url": "http://api.argentinatv.live/file2/dtv3.json",
       },
       {
         "icon": "https://static.tvar.io/imagenes/dtvfight.png",
