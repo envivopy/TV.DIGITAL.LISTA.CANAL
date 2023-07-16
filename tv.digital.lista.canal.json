@@ -8,12 +8,12 @@
 		"icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
       },
       {
-        "name": "TIGO HD",
-        "uri": "https://live.prd.dlive.tv/hls/live/cbbctv.m3u8?mobileweb=true",
+        "name": "TIGO ",
+        "uri": "https://live.prd.dlive.tv/hls/live/Nctv.m3u8?mobileweb=true",
 		"icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
       },
       {
-        "name": "TIGO HD 2",
+        "name": "TIGO NN",
         "uri": "https://tgn.bozztv.com/ssh101/ssh101/tvtigo/chunks.m3u8",
 		"icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
       },
@@ -23,7 +23,7 @@
 		"icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
       },
       {
-        "name": "TIGO SPORT 3",
+        "name": "TIGO ",
         "uri": "https://tgn.bozztv.com/ssh101/ssh101/tvtigo/chunks.m3u8",
 		"icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
       }
