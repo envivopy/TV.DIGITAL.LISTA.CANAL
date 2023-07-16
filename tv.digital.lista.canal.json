@@ -266,11 +266,34 @@
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"  
       },
       {
+        "name": "NPY",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wmdyfjtx1t6gdoonqzdp7/KEY.NPY.json?rlkey=ds2241ejehvlvi69xyjvnryfn&dl=0",
+		"icono": "https://i.postimg.cc/KYgH7Rb9/Unicanal-en-vivo-Online.png"
+      },
+      {
         "name": "PARAVISION",
         "uri": "https://edge-vod03-hr.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/hwvh6ihwd8cdm3r/KEY.PARAVISON.json",
 		"icono": "https://i.postimg.cc/KYgH7Rb9/Unicanal-en-vivo-Online.png"
+
+      },
+      {
+        "name": "C9N",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/4xslpl7mf646178r4dff1/KEY.c9n.json?rlkey=0ynm9yhtlsc7hwcy4xfsjte0v&dl=0",
+		"icono": "https://i.postimg.cc/KYgH7Rb9/Unicanal-en-vivo-Online.png"
+      },
+      {
+        "name": "GEN TV",
+        "uri": "http://edge-live16-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/1w2rvmtzxk1447m/KEY.GENTV.json",
+		"icono": "https://i.postimg.cc/KYgH7Rb9/Unicanal-en-vivo-Online.png"
+
      },
       {
         "name": "LA TELE",
