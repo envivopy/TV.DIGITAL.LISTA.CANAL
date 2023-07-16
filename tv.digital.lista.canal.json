@@ -1,29 +1,176 @@
 [
   {
-
     "name": "TIGO SPORTS",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
-        "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"
+        "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8",
+		"icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
       },
       {
-        "name": "TIGO EN VIVO",
-        "uri": "https://vsd132.mycdn.me/hls/4831160240807.m3u8/sig/wvIi5E8jRo8/expires/1689372290655/srcIp/190.175.19.232/urls/185.226.53.56/clientType/1/srcAg/UNKNOWN_ANDROID/mid/6521622437543/video.m3u8"
+        "name": "TIGO HD",
+        "uri": "https://live.prd.dlive.tv/hls/live/cpcctv.m3u8?mobileweb=true",
+		"icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
+      },
+      {
+        "name": "TIGO HD 2",
+        "uri": "https://tgn.bozztv.com/ssh101/ssh101/tvfutbolachooo/chunks.m3u8",
+		"icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
+      },
+      {
+        "name": "TIGO HD",
+        "uri": "https://vsd136.mycdn.me/hls/5088349850292.m3u8/sig/N2OdUIOEqkc/expires/1689541149317/srcIp/181.124.171.113/urls/185.226.53.84/clientType/1/srcAg/UNKNOWN_ANDROID/mid/6696657166004/video.m3u8?p",
+		"icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
+      },
+      {
+        "name": "TIGO SPORT 3",
+        "uri": "http://digipro.ink:8080/live/Carlosdigi987/Digicarlos789/233795.ts",
+		"icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
+      }
+    ]
+  },
+  {
+    "name": "TV ARGENTINA",
+    "samples": [
+      {
+        "name": "TELEFE",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/ckf5zojjikq9v5phkwgdp/KEY.TELEFE.json?rlkey=gi2h8txpf1b9agaflo6g1v5a0&dl=0",
+		"icono": "https://i.postimg.cc/qMvdmtPQ/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png"
 
       },
-      {
-        "name": "TIGO TVLA",
-        "uri": "https://ssh101.bozztv.com/ssh101/tvlat/chunks.m3u8"
-        },
-      {
-        "name": "copa paraguay",
-        "uri": "https://vsd132.mycdn.me/hls/4831160240807.m3u8/sig/wvIi5E8jRo8/expires/1689372290655/srcIp/190.175.19.232/urls/185.226.53.56/clientType/1/srcAg/UNKNOWN_ANDROID/mid/6521622437543/4831160240807_high/index.m3u8"
-
+     {
+        "name": "EL TRECE ",
+        "uri": "http://edge-live13-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/ys35uiuvpe1pjqo1qodkm/KEY.ELTRECE.json?rlkey=om3bspgh8rrciw6li4am3ur30&dl=0",
+		"icono": "https://i.postimg.cc/25R4KWLH/1014321.png"
       },
       {
-        "name": "ESTRENO Sound of Freedom",
-        "uri": "https://just-click.herokuapp.com/6005436"
+        "name": "CANAL 9",
+        "uri": "https://edge-live13-sl.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://i.postimg.cc/brdSzHKx/240px-Cartoon-Network-2010-logo-svg.png"
+      },
+	  {
+        "name": "AMERICA TV",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_wl/AmericaTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://i.postimg.cc/761GJTfR/maxresdefault.jpg"
+      },
+	  {
+        "name": "TV PUBLICA",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://i.postimg.cc/3Nmh9zsf/image.png"
+
+      },
+	  {
+        "name": "C5N",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/8qezeqv7vj1qu9u/KEY.C5N.json"",
+		"icono": "https://i.postimg.cc/h41czR0h/image.png"
+      },
+	  {
+        "name": "TN NOTICIAS",
+        "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"",
+		"icono": "https://i.postimg.cc/hj7f1pcy/Discovery-kids-logo.png"
+      },
+	  {
+        "name": "CRONICA TV",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/xuddigrz6hxqxn0wj2xfm/KEY.CRONICA.TV.json?rlkey=tbt7trfodbo6gkxm5w7vtvmj1&dl=0",
+		"icono": "https://i.postimg.cc/RZfs2zG4/Disney-Channel-2014-HD.png"
+      },
+      {
+        "name": "A24",
+        "uri": "https://edge-live12-sl.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"",
+		"icono": "https://i.postimg.cc/6Q8dFVBR/1200px-Boomerang-2014-logo-svg.png"
+  
+  },
+  {
+
+        "name": "CANAL 26",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/6rnhvi466d8c62tackc3m/KEY.CANAL.26.json?rlkey=edi6dma78hs5uui9kkf9owazz&dl=0",
+		"icono": "https://i.postimg.cc/hjx19JJb/history.png"
+      },
+      {
+        "name": "CANAL IP",
+        "uri": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8",
+        "drm_license_uri": "https://ivotv.xyz/panel/keys/discovery.json",
+		"icono": "https://i.postimg.cc/CxP7YpTD/discovery-channel.png"
+      },
+      {
+        "name": "BRAVO TV",
+        "uri": "https://edge-live31-hr.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_2A/BravoTV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/ku3d8yzsa6hqnwyevq8ng/KEY.BRAVO.TV.json?rlkey=5xxws45wqa93j0fuqbpcchkcl&dl=0",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://i.postimg.cc/cCKGrGXQ/ver-discovery-h-h-en-vivo.png"
+      },
+      {
+        "name": "ARGENTINISIMA SATELITAL",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/44p1aws6j2n0qbe/keyargentinisima.json",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://ivotv.xyz/panel/keys/discoveryid.json",
+		"icono": "https://i.postimg.cc/T3b2tgjr/ver-discovery-id-en-vivo.png"
+      },
+      {
+        "name": "CANAL 12 CORDOBA",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/a97iw0i52tkmqchsfm1ml/KEY.CANAL-12-CORDOBA.json?rlkey=p5ctuf2ahfnbs0kj3by5ituih&dl=0",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://ivotv.xyz/panel/keys/discoveryscience.json",
+		"icono": "https://i.postimg.cc/7Lg6Z0fx/ver-discovery-science-en-vivo.jpg"
+      },
+      {
+        "name": "VOLVER",
+        "uri" : "https://edge-live15-sl.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_2A/Volver.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D" ,
+		"icono": "https://i.postimg.cc/sxtdWHNb/ver-discovery-turbo-en-vivo.jpg"
+      },
+      {
+        "name": "CINE AR",
+        "uri" : "https://edge-live12-sl.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://i.postimg.cc/cHFdvmZN/ver-discovery-theater-en-vivo.jpg"
+      },
+      {
+        "name": "VOLVER",
+        "uri" : "https://edge-live15-sl.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_2A/Volver.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D" ,
+		"icono": "https://i.postimg.cc/cHFdvmZN/ver-discovery-theater-en-vivo.jpg"
+      },
+      {
+        "name": "TEATRIX TV",
+        "uri": "http://content-asae1-up-1.uplynk.com/4bfeeae627a24d6a9f0e1ded7b020df0/f.m3u8",
+		"icono": "https://i.postimg.cc/B6SqZzrg/ver-discovery-world-en-vivo.jpg"
+ 
+  },
+  {
+
+         "name": "TEATRIX TV OPC 2",
+        "uri": "http://mundialtvdigital.com/xd/teatrix.m3u8"  ,
+		"icono": "https://i.postimg.cc/KYgH7Rb9/Unicanal-en-vivo-Online.png"
       }
     ]
   },
