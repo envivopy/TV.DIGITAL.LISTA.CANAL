@@ -201,12 +201,12 @@
         "uri": "https://edge-live15-sl.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/ali4de91dll87bi/KEY.RPC.json",
-		"icono": "https://i.postimg.cc/XYVwSqFK/1200px-NPY-Noticias-Paraguay.png"
+		"icono": "https://i.postimg.cc/XYV"
       },
       {
         "name": "RPC OPC 2", 
         "uri": "https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/index.m3u8",
-		"icono": "https://i.postimg.cc/hjWJVC4D/C9N-LOGO.jpg"
+		"icono": "https://i.p.jpg"
       },
       {
         "name": "UNICANAL",
@@ -220,7 +220,7 @@
         "uri": "http://edge-live15-sl.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc_2A/Mega_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/zdz11z81el8qov9wnyvwn/KEY.MEGA-TV1.json?rlkey=gqyyra9dd5k10rkcn5r71426m&dl=0",
-		"icono": "https://i.postimg.cc/hjWJVC4D/C9N-LOGO.jpg"
+		"icono": "https:GO.jpg"
       },
       {
        "name": "PARAGUAY TV",
