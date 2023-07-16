@@ -6,6 +6,7 @@
       {
         "name": "TIGO BOLIVIA",
         "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8",
+        "icono": "https://i.postimg.cc/sxtdWHNb/ver-discovery-turbo-en-vivo.jpg"     
       },
       {
         "name": "TIGO EN VIVO",
@@ -15,11 +16,12 @@
       {
         "name": "TIGO TVLA",
         "uri": "https://ssh101.bozztv.com/ssh101/tvlat/chunks.m3u8",
+	"icono": "https://i.postimg.cc/sxtdWHNb/ver-discovery-turbo-en-vivo.jpg"
         },
       {
         "name": "TIGO EN VIVO",
         "uri": "https://vsd219.mycdn.me/hls/4841677916839.m3u8/sig/1j4FVer9JQo/expires/1689549864110/srcIp/190.12.109.196/urls/185.226.52.91/clientType/1/srcAg/CHROME_ANDROID/mid/6572002385575/4841677916839_high/index.m3u8",
-
+	"icono": "https://i.postimg.cc/sxtdWHNb/ver-discovery-turbo-en-vivo.jpg"
       },
       {
         "name": "tigo HD",
@@ -35,12 +37,14 @@
         "uri": "https://edge-live15-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+	"icono": "https://i.postimg.cc/sxtdWHNb/ver-discovery-turbo-en-vivo.jpg" 
       },
       {
        "name": "HISTORY 2",
         "uri": "http://edge-live16-hr.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/baef185oipl3vv9ll4uje/KEY.H2.json?rlkey=75h0vb92qmpz4vxmk9upaj3g8&dl=0",
+	 "icono": "https://i.postimg.cc/sxtdWHNb/ver-discovery-turbo-en-vivo.jpg"   
       },
       {
         
@@ -54,6 +58,7 @@
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+	"icono": "https://i.postimg.cc/sxtdWHNb/ver-discovery-turbo-en-vivo.jpg"    
       },
       {
         "name": "DISCOVERY ID",
@@ -66,6 +71,7 @@
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2A/Discovery_Science.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://ivotv.xyz/panel/keys/discoveryscience.json",
+	"icono": "https://i.postimg.cc/sxtdWHNb/ver-discovery-turbo-en-vivo.jpg"     
       },
       {
         "name": "DISCOVERY TURBO",
@@ -97,6 +103,7 @@
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/TruTV/SA_Live_dash_enc_2A/TruTV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/94yfpwmjrq90kvc9f5svh/KEY.TRU.TV.json?rlkey=drulcoe8uywkmh06ns2pqe0n8&dl=0",
+	"icono": "https://i.postimg.cc/sxtdWHNb/ver-discovery-turbo-en-vivo.jpg"  
      
       }
     ]
