@@ -9,12 +9,12 @@
       },
       {
         "name": "TIGO HD",
-        "uri": "https://live.prd.dlive.tv/hls/live/cpcctv.m3u8?mobileweb=true",
+        "uri": "https://live.prd.dlive.tv/hls/live/cbbctv.m3u8?mobileweb=true",
 		"icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
       },
       {
         "name": "TIGO HD 2",
-        "uri": "https://tgn.bozztv.com/ssh101/ssh101/tvfutbolachooo/chunks.m3u8",
+        "uri": "https://tgn.bozztv.com/ssh101/ssh101/tvtigo/chunks.m3u8",
 		"icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
       },
       {
@@ -24,7 +24,7 @@
       },
       {
         "name": "TIGO SPORT 3",
-        "uri": "http://digipro.ink:8080/live/Carlosdigi987/Digicarlos789/233795.ts",
+        "uri": "https://tgn.bozztv.com/ssh101/ssh101/tvtigo/chunks.m3u8",
 		"icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
       }
     ]
