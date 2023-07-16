@@ -117,8 +117,6 @@
         "uri": "https://edge-live31-hr.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_2A/BravoTV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/ku3d8yzsa6hqnwyevq8ng/KEY.BRAVO.TV.json?rlkey=5xxws45wqa93j0fuqbpcchkcl&dl=0",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.postimg.cc/cCKGrGXQ/ver-discovery-h-h-en-vivo.png"
       },
       {
@@ -126,8 +124,6 @@
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/44p1aws6j2n0qbe/keyargentinisima.json",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://ivotv.xyz/panel/keys/discoveryid.json",
 		"icono": "https://i.postimg.cc/T3b2tgjr/ver-discovery-id-en-vivo.png"
       },
       {
@@ -135,8 +131,6 @@
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/a97iw0i52tkmqchsfm1ml/KEY.CANAL-12-CORDOBA.json?rlkey=p5ctuf2ahfnbs0kj3by5ituih&dl=0",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://ivotv.xyz/panel/keys/discoveryscience.json",
 		"icono": "https://i.postimg.cc/7Lg6Z0fx/ver-discovery-science-en-vivo.jpg"
       },
       {
