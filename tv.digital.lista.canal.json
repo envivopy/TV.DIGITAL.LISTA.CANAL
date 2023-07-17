@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORTS",
+    "name": "TIGO SPORTSS",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -921,11 +921,11 @@
         "name": "MIAMI TV",
         "uri": "https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8",
 		"icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  	  
-   }
+      }
     ]
   },
   {
-   "name": "CANALES 24/7",
+    "name": "24/7",
     "samples": [
       {
         "name": "GRAN HERMANO CHILE",
@@ -941,7 +941,7 @@
         "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  
 
       },
-	  {
+      {
         "name": "Boomerang",
         "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
         "drm_scheme": "clearkey",
@@ -1041,6 +1041,4 @@
       }
     ]
   },
-  {
-
   {
