@@ -402,30 +402,25 @@
             "icono": "https://i.postimg.cc/prJbsBNM/hbo-mundi-logo-236-F04-C9-B4-seeklogo-com.png"
       },
       {
-        "name": "HBO PLUS",
-        "uri": "https://edge-live11-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/hbop.json",
-		"icono": "https://i.postimg.cc/pL9RmNkD/HBO-Plus.png"
-      },
-      {
         "name": "CINE LATINO",
         "uri" : "https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kikw0e7fpau9bx3x06y6p/KEY.CINE-LATINO.json?rlkey=tfy2ov0o0cy04p7formtmwtzn&dl=0",
 		"icono": "https://i.postimg.cc/HWZr202C/hbo-pop-logo-10-AD275431-seeklogo-com.png"
-      }
-    ]
-  },
-  {
-    "name": "UNIVERSAL CANALES",
-    "samples": [
+      },
       {
-        "name": "WARNEL CHANELL",
-        "uri" : "http://edge-live11-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/uzche0b1a7bxrk2knhqg7/KEY.WARNER.CHANNEL.json?rlkey=viinf3c5imgaj5n8ebaa4sjul&dl=0",
-		"icono": "https://i.postimg.cc/zBFV0Krd/ver-universal-tv-en-vivo.jpg"
+        "name": "WARNER CHANNEL",
+        "uri" : "https://edge-live16-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://i.postimg.cc/cHScvRhT/ver-espn-extra-en-vivo.jpg"
+      },
+      {
+        "name": "UNIVERSAL CHANNEL",
+        "uri" : "https://edge-live12-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://i.postimg.cc/8ckBHTq6/Fox-Sports.png"
       },
       {
         "name": "TCM",
@@ -433,6 +428,13 @@
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.postimg.cc/SxnYkn6s/ver-universal-cinema-en-vivo.jpg"
+      },
+      {
+        "name": "STUDIO UNIVERSAL",
+        "uri" : "https://edge-live31-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A/Studio_Universal.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://i.postimg.cc/25vwjcQV/ver-fox-sports-3-en-vivo.jpg"
   },
   {
         "name": "UNIVERSAL COMEDY",
@@ -468,14 +470,6 @@
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.postimg.cc/RZhcytD5/45857537421cf0f7c7b1aab9b2ea6f9b.jpg"
-      },
-      {
-    "name": "Premiere 3",
-    "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMDM2X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_3200x2400.png?timestamp=1685587106024
-    "uri": "https://dtvott-jbc.akamaized.net/dash_live_0113/manifest.mpd?da=0&country=UY&accountType=OTT",
-	"drm_scheme": "clearkey",
-    "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/pre8.json",
-  "icono": "https://i.postimg.cc/RZhcytD5/45857537421cf0f7c7b1aab9b2ea6f9b.jpg"
   },
   {
         "name": "TNT NOVELAS",
@@ -524,32 +518,12 @@
 		"icono": "https://i.postimg.cc/vTP72psS/ver-espn-3-en-vivo.jpg"
       },
       {
-        "name": "WARNER CHANNEL",
-        "uri" : "https://edge-live16-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
-		"icono": "https://i.postimg.cc/cHScvRhT/ver-espn-extra-en-vivo.jpg"
-      },
-      {
-        "name": "UNIVERSAL CHANNEL",
-        "uri" : "https://edge-live12-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
-		"icono": "https://i.postimg.cc/8ckBHTq6/Fox-Sports.png"
-      },
-      {
         "name": "AXN",
         "uri" : "https://edge-live11-hr.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.postimg.cc/2SgGDRBs/Fox-Sports-2.png"
-      },
-      {
-        "name": "STUDIO UNIVERSAL",
-        "uri" : "https://edge-live31-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A/Studio_Universal.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
-		"icono": "https://i.postimg.cc/25vwjcQV/ver-fox-sports-3-en-vivo.jpg"
+
       },
       {
         "name": "A&E",
