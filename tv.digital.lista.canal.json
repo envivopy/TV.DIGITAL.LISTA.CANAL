@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORS2",
+    "name": "TIGO SPORS8",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -628,7 +628,7 @@
         "name": "TYC SPORT",
         "uri": "https://edge-live12-sl.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D=",
 		"icono": "https://i.postimg.cc/4xyWTYjw/TUDN.png"
   },
   {
@@ -659,11 +659,8 @@
 		"icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
   },
   {
-        "name": "TUDN HD",
-        "uri" : "https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/5i7u4s8mvz41lu4l5imsg/KEY.TUDN.json?rlkey=1h1xv9r4wujl7isd4ncilmzxd&dl=0",
-		"icono": "https://i.postimg.cc/4xyWTYjw/TUDN.png"
+        "name": "SPORTV 1",
+        "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-F6Mj3u4Z8F/Ri369CisDQ/396.ts"
 	      
       }
     ]
