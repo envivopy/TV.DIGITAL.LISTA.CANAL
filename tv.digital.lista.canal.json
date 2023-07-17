@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORSK",
+    "name": "TIGO SPORSL",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -597,11 +597,26 @@
     "name": "DEPORTES",
     "samples": [
       {
+        "name": "TNT SPORT HD",
+        "uri": "http://edge-live13-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/j7zajiko6y5god5ldve5c/KEY.TNT.SPORTS.json?rlkey=bl67cfqphplgsl4oe40322jof&dl=",
+		"icono": "https://i.postimg.cc/jS23T437/directvplus.jpg"
+      },
+      {
+        "name": "FOX SPORTS 1",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/9cxjucuca0o2uvv5s9slo/KEY.FOX.SPORTS1.json?rlkey=oo3jk12gl7cut5i1ckfc1jwpo&dl=0",
+	"icono": "https://i.postimg.cc/jS23T437/directvplus.jpg"
+      },
+      {
          "name": "DIRECTV",
         "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057",
         "drm_scheme": "clearkey",
         "drm_license_uri": "http://167.114.129.223/web/keys/dtvar.json",
 		"icono": "https://i.postimg.cc/jS23T437/directvplus.jpg"
+
       },
       {
         "name": "DIRECTV +",
@@ -662,6 +677,18 @@
         "name": "SPORTV 1",
         "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-F6Mj3u4Z8F/Ri369CisDQ/396.ts",
 	      "icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
+
+  },
+  {
+        "name": "SPORTV 2",
+        "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-VTpgsnOoHj/28QmTPho90/397.ts",
+	      "icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
+  },
+  {
+        "name": "SPORTV 3",
+        "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-VTpgsnOoHj/28QmTPho90/398.t",
+	      "icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
+
       }
     ]
   },
