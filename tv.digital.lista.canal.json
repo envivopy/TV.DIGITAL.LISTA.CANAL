@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORS",
+    "name": "TIGO SPORSX",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -602,133 +602,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "http://167.114.129.223/web/keys/dtvar.json",
 		"icono": "https://i.postimg.cc/jS23T437/directvplus.jpg"
-      },
-      {
-        "name": "DIRECTV +",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/dtv+.json",
-		icono": "https://i.postimg.cc/jS23T437/directvplus.jpg"
-      },
-      {
-        "name": "Eleven Pro League 1",
-        "uri": "https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/espo.json",
-		"icono": "https://i.postimg.cc/L82DWK52/tv-station-eleven-pro-league-1-594.png"
-      },
-      {
-        "name": "DIRECTV SPORTS MOTOR",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1279/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/vtq2ai4t92m9feuwqo19e/KEY.DIRECTVSPORTSMOTOR.json?rlkey=5zy6yancjxil4j8iktj2c7ics&dl=0",
-		"icono": "https://i.postimg.cc/857GJkFb/DSPORTS-FIGHT.png"
-      },
-      {
-        "name": "DIRECTV SPORTS FIGHT",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mxpubvdpkk8ertisjdpjn/KEY.DIRECTVSPORTSFIGHT.json?rlkey=dqcajlyebuyym3x1lew0qpfvy&dl=0",
-		""icono": "https://i.postimg.cc/857GJkFb/DSPORTS-FIGHT.png"
-      },
-      {
-        "name": "TYC SPORT",
-        "uri": "https://edge-live12-sl.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
-		"icono": "https://i.postimg.cc/4xyWTYjw/TUDN.png"
-  },
-  {
-        "name": "TUDN HD",
-        "uri" : "https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/5i7u4s8mvz41lu4l5imsg/KEY.TUDN.json?rlkey=1h1xv9r4wujl7isd4ncilmzxd&dl=0",
-		"icono": "https://i.postimg.cc/4xyWTYjw/TUDN.png"
-  },
-  {
-        "name": "TNT SPORTS BRASIL",
-        "uri": "https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8",
-		"icono": "https://i.postimg.cc/kMkS5BVf/TNT-SPORTS-ARGENTINA.png"
-  },
-      {
-        "name": "TNT SPORTS BRASIL 2",
-        "uri": "https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8",
-		"icono": "https://i.postimg.cc/kMkS5BVf/TNT-SPORTS-ARGENTINA.png"
-  },
-  {
-        "name": "TNT SPORTS BRASIL 3",
-        "uri": "https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8",
-		"icono": "https://i.postimg.cc/kMkS5BVf/TNT-SPORTS-ARGENTINA.png"
-      },
-      {
-        "name": "TNT SPORTS BRASIL 4",
-        "uri": "https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8",
-		"icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
-      },
-      {
-        "name": "ESPN 2",
-        "uri": "https://edge-live15-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/espn2.json",
-		"icono": "https://i.postimg.cc/SQVGKzM7/ver-espn-2-en-vivo.jpg"
-      },
-      {
-        "name": "TYC SPORT (PLAY 1)",
-        "uri": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
-		"icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
-      },
-      {
-        "name": "TYC SPORT (PLAY 2)",
-        "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8".
-		"icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
-      },
-      {
-        "name": "TYC SPORT (PLAY 3)",
-        "uri": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8",
-		"icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
-      },
-      {
-        "name": "TYC SPORT (PLAY 4)",
-        "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8",
-		"icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
-      },
-      {
-        "name": "TYC SPORT (PLAY 5)",
-        "uri": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json",
-		"icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
-      },
-      {
-       "name": "EURO  SPORT",
-        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-027/stream.mpd?p=web",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/0m6x12zx3lmtmm3arxj2r/KEY.EURO.DPORT.json?rlkey=el7ws38pbu4bhsp8mt91v9bu9&dl=0",
-		"icono": "https://i.postimg.cc/hPcdmNrd/arena2premiun.jpg"
-      },
-      {
-        "name": "SPORTV 1",
-        "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-F6Mj3u4Z8F/Ri369CisDQ/396.ts",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json",
-		"icono": "https://i.postimg.cc/50fVg5kn/arena3.jpg"
-      },
-      {
-        "name": "SPORTV 2",
-        "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-VTpgsnOoHj/28QmTPho90/397.ts",
-		"icono": "https://i.postimg.cc/MKnh7ZYc/image.png"
-      },
-      {
-        "name": "DEPORTV",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/deportv.json",
-		"icono": "https://i.postimg.cc/9XdsQq0B/DEPOR-TV.png"
-      },
-      {
-        "name": "SPORTV 3",
-        "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-VTpgsnOoHj/28QmTPho90/398.ts",
-		"icono": "https://i.postimg.cc/x8p8WjkJ/image.png"
+
   
       }
     ]
