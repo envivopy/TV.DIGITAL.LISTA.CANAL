@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORwww",
+    "name": "TIGO SPORTS",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -898,6 +898,146 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/n8npkmjnphq68qmsl6plr/KEY.DAZNLA.LIGA.json?rlkey=i1y5t3mlc83htywdu2np1hfsg&dl=0",
 		"icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  
+      }
+    ]
+  },
+  {
+    "name": "ADULTOS",
+    "samples": [
+      {
+        "name": "PLAYBOY",
+        "uri": "http://mtd.llc/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/172g4o8n14krxj4/KEY.PLAYBOY.json",
+
+   },
+  {
+        "name": "VENUS",
+        "uri": "http://mtd.llc/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/hh46fty0kuygitj/KEY.VENUS.json",
+   },
+  {
+        "name": "MIAMI TV",
+        "uri": "https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8",
+		"icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  	  
+   }
+    ]
+  },
+  {
+   "name": "CANALES 24/7",
+    "samples": [
+      {
+        "name": "GRAN HERMANO CHILE",
+        "uri": "http://i.mjh.nz/PlutoTV/645505747cb4b10008492e03-alt.m3u8",
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"                                         
+
+          },
+	  {
+        "name": "PAKA_PAKA",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/axfm0vpwdoy0b9ozf89ba/KEY.pakaka.json?rlkey=irla1oqbrvwvydg0s96jpnlav&dl=0",
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  
+
+      },
+	  {
+        "name": "Boomerang",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://www.dropbox.com/scl/fi/zzf2qmk009cfp4pioy9de/KEY.Boomerang.json?rlkey=ifl2x7ga05nhptmnu8tuygk68&dl=0",
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  	  
+          },
+	  {
+        "name": "Tooncast",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/g9f1vbscuvaoapkxe7mpj/KEY.Tooncast.json?rlkey=gbx8u8lfr07n0epo0zs13c5wp&dl=0",
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  	 
+         },
+	  {
+        "name": "Nickelodeon",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/26dnkj393rao5fiq4duox/KEY.Nickelodeon.json?rlkey=1rspyg59bwwhfcnvog6lrspnf&dl=0",
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  	  
+      },
+      {
+     "name": "Animex",
+        "uri": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=02c02686-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true",	 
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"       
+      },
+      {
+        "name": "LOS SIMPSON",
+        "uri": "http://149.56.44.10/hls/128_.m3u8",
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  
+      },
+      {
+     "name": "EL CHAVO",
+        "uri": "https://6362ca6f1fc28.streamlock.net/elchavoplus/elchavoplus/chunklist.m3u8", 
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  
+      },
+      {
+     "name": "EL CHAPULIN COLORADO",
+        "uri": "http://149.56.44.10/hls/131_.m3u8",  
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"   
+      },
+      {
+     "name": "BOB SPONJA",
+        "uri": "http://51.159.104.29:8080/bobesponja/index.m3u8",   
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  
+        
+      },
+      {
+        "name": "Dragon Ball",
+        "uri": "http://149.56.44.10/hls/136_.m3u8",
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  
+      },
+      {
+        "name": "Dragon Ball Z",
+        "uri": "http://149.56.44.10/hls/143_.m3u8",
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  
+  },
+  {
+   "name": "Dragon Ball GT",
+        "uri": "http://149.56.44.10/hls/134_.m3u8",
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  
+    
+       },
+      {
+   "name": "COYOTE CORRE CAMINO",
+        "uri": "http://api.argentinatv.live/hls2/96/index.m3u8",
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  
+      },
+      {
+   "name": "FUTURAMA",
+        "uri": "https://6362ca6f1fc28.streamlock.net/cloudtvplus/cloudtvplus/chunklist.m3u8",
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  
+      },
+      {
+     "name": "Ben 10",
+        "uri": "http://51.159.104.29:8080/ben10/index.m3u8",
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  
+      },
+      {
+     "name": "CINE CARTOON",
+        "uri": "https://6362ca6f1fc28.streamlock.net/cinecartoon/cinecartoon/chunklist.m3u8",
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  
+     },
+      {
+     "name": "TOM Y JERRY",
+        "uri": "https://6362ca6f1fc28.streamlock.net/tomyjerry/tomyjerry/chunklist.m3u8". 
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"   
+       },
+       {
+        "name": "DIOS TE VE",
+        "uri": "https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  
+      },
+      {
+        "name": "TEST",
+        "uri": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
+        "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  
       }
     ]
   },
