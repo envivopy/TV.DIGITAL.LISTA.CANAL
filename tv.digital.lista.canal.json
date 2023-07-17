@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORSE",
+    "name": "TIGO SPORSÑ",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -702,14 +702,19 @@
       {
         "name": "SPORTV 1",
         "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-F6Mj3u4Z8F/Ri369CisDQ/396.ts",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json",
 		"icono": "https://i.postimg.cc/50fVg5kn/arena3.jpg"
       },
       {
         "name": "SPORTV 2",
         "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-VTpgsnOoHj/28QmTPho90/397.ts",
 		"icono": "https://i.postimg.cc/MKnh7ZYc/image.png"
+
+      },
+      {
+        "name": "SPORTV 3",
+        "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-VTpgsnOoHj/28QmTPho90/398.ts",
+		"icono": "https://i.postimg.cc/x8p8WjkJ/image.png"
+
       },
       {
         "name": "DEPORTV",
@@ -717,11 +722,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://.json",
 		"icono": "https://i.postimg.cc/9XdsQq0B/DEPOR-TV.png"
-      },
-      {
-        "name": "SPORTV 3",
-        "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-VTpgsnOoHj/28QmTPho90/398.ts",
-		"icono": "https://i.postimg.cc/x8p8WjkJ/image.png"
+	      
       }
     ]
   },
