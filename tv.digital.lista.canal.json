@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORS9",
+    "name": "TIGO SPORS7",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -688,8 +688,6 @@
       {
         "name": "TYC SPORT (PLAY 5)",
         "uri": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json",
 		"icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
 	      
       }
