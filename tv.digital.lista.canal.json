@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORTS",
+    "name": "TIGO SPORTSS",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -693,9 +693,6 @@
       {
         "name": "SPORTV 1",
         "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-F6Mj3u4Z8F/Ri369CisDQ/396.ts",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json",
-		"icono": "https://i.postimg.cc/50fVg5kn/arena3.jpg"
       },
       {
         "name": "SPORTV 2",
