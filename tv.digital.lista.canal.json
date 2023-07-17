@@ -376,7 +376,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/oqcshr1efisq0lbb79w2p/KEY.UNIVERSAL.CRIME.json?rlkey=ab50erzuvsqyjn26fdx9msfpf&dl=0",
 		"icono": "https://i.postimg.cc/mD3bTQjJ/hbo2.png"
-	  },
+      },
       {
         "name": "UNIVERSAL PREMIERE",
         "uri" : "http://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd",
@@ -606,7 +606,7 @@
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/dtv+.json",
-		icono": "https://i.postimg.cc/jS23T437/directvplus.jpg"
+		"icono": "https://i.postimg.cc/jS23T437/directvplus.jpg"
       },
       {
         "name": "DIRECTV SPORTS MOTOR",
@@ -620,7 +620,7 @@
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mxpubvdpkk8ertisjdpjn/KEY.DIRECTVSPORTSFIGHT.json?rlkey=dqcajlyebuyym3x1lew0qpfvy&dl=0",
-		""icono": "https://i.postimg.cc/857GJkFb/DSPORTS-FIGHT.png"
+		"icono": "https://i.postimg.cc/857GJkFb/DSPORTS-FIGHT.png"
       },
       {
         "name": "TYC SPORT",
@@ -663,7 +663,7 @@
       },
       {
         "name": "TYC SPORT (PLAY 2)",
-        "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8".
+        "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8",
 		"icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
       },
       {
