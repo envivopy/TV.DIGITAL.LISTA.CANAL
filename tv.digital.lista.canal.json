@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORSMM",
+    "name": "TIGO SPORScccc",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -735,7 +735,6 @@
         "name": "SPORTV 1",
         "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-F6Mj3u4Z8F/Ri369CisDQ/396.ts",
 	      "icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
-
   },
   {
         "name": "SPORTV 2",
@@ -746,28 +745,23 @@
         "name": "SPORTV 3",
         "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-VTpgsnOoHj/28QmTPho90/398.t",
 	      "icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
-
   },
   {
         "name": "BEIN SPORTS EXTRA",
         "uri": "http://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8",
 	      "icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
-
-
   },
   {
         "name": "REAL MADRID TV",
         "uri": "http://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8",
 	      "icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
-
   },
   {
         "name": "TYC SPORTS",
         "uri" : "https://edge-live11-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://silverplaytv.store/koey/tycsp0rt.jso",
-		"icono": "https://i.postimg.cc/4xyWTYjw/TUDN.png"
-
+               "icono": "https://i.postimg.cc/4xyWTYjw/TUDN.png"
   },
   {
         "name": "TYC SPORT (PLAY 1)",
@@ -794,7 +788,6 @@
         "name": "TYC SPORT (PLAY 5)",
         "uri": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8",
 	      "icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
-
   },
   {
         "name": "REAL MADRID TV",
@@ -813,7 +806,7 @@
         "name": "NBA",
         "uri" : "https://edge-live16-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/nba.jso",
+        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/nba.json",
 		"icono": "https://i.postimg.cc/4xyWTYjw/TUDN.png"
 
   },
