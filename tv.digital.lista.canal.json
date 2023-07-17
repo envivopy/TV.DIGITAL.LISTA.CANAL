@@ -361,7 +361,8 @@
     ]
   },
   {
-    "name": "CINES-SERIES ",
+
+    "name": "CINES-SERIES",
     "samples": [
       {
         "name": "UNIVERSAL COMEDY",
@@ -592,6 +593,7 @@
     ]
   },
   {
+
     "name": "DEPORTES",
     "samples": [
       {
@@ -706,11 +708,12 @@
         "name": "SPORTV 3",
         "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-VTpgsnOoHj/28QmTPho90/398.ts",
 		"icono": "https://i.postimg.cc/x8p8WjkJ/image.png"
-      }   
+      }
     ]
   },
   {
-    "name": "DAZN",
+
+    "name": "DAZN 1",
     "samples": [
       {
         "name": "DAZN ALEMANIA",
@@ -753,10 +756,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfd2c747f51754679a03feaa47a7e179&key=0f2e260c938a502fd2ddadfd75bebcde",
 		"icono": "https://i.postimg.cc/YCpsC1Sw/eurosports1.jpg"
-      }   
+      }
     ]
   },
   {
+
     "name": "DAZN",
     "samples": [
       {
