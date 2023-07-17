@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORSR5",
+    "name": "TIGO SPORSP",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -660,7 +660,7 @@
   },
   {
         "name": "SPORTV 1",
-        "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-F6Mj3u4Z8F/Ri369CisDQ/396.ts"
+        "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-F6Mj3u4Z8F/Ri369CisDQ/396.ts".
 	      "icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
       }
     ]
