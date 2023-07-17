@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORTSS",
+    "name": "TIGO SPORTS",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -298,7 +298,6 @@
     ]
   },
   {
-
     "name": "PACK-HBO",
     "samples": [
       {
@@ -356,7 +355,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/ps12mn29wzvvvyx/KEY.HBO.POP.json",
 		"icono": "https://i.postimg.cc/5NrDcrwG/Arge10.png"
-
       }
     ]
   },
@@ -712,7 +710,6 @@
     ]
   },
   {
-
     "name": "DAZN 1",
     "samples": [
       {
@@ -807,4 +804,4 @@
       }
     ]
   },
-  {}]
+  {
