@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORSX",
+    "name": "TIGO SPORS",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -602,8 +602,29 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "http://167.114.129.223/web/keys/dtvar.json",
 		"icono": "https://i.postimg.cc/jS23T437/directvplus.jpg"
+      },
+      {
+        "name": "DIRECTV +",
+        "uri": "https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/dtv+.json",
+		"icono": "https://i.postimg.cc/jS23T437/directvplus.jpg"
+      },
+      {
+        "name": "DIRECTV SPORTS MOTOR",
+        "uri": "https://dtvott-abc.akamaized.net/dash_live_1279/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/vtq2ai4t92m9feuwqo19e/KEY.DIRECTVSPORTSMOTOR.json?rlkey=5zy6yancjxil4j8iktj2c7ics&dl=0",
+		"icono": "https://i.postimg.cc/857GJkFb/DSPORTS-FIGHT.png"
+      },
+      {
+        "name": "DIRECTV SPORTS FIGHT",
+        "uri": "https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mxpubvdpkk8ertisjdpjn/KEY.DIRECTVSPORTSFIGHT.json?rlkey=dqcajlyebuyym3x1lew0qpfvy&dl=0",
+		"icono": "https://i.postimg.cc/857GJkFb/DSPORTS-FIGHT.png"
+    
 
-  
       }
     ]
   },
