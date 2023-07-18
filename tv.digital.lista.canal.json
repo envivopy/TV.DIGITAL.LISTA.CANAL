@@ -8,19 +8,24 @@
 		"icono": "https://i.ibb.co/nc21MFQ/1.jpg"
       },
       {
-        "name": "TIGO ",
+        "name": "TIGO SOLO EVENTOS",
         "uri": "https://live.prd.dlive.tv/hls/live/dlive-jzsbmrxoxc.m3u8?mobileweb=true",
 		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
       },
       {
-        "name": "TIGO NN",
+        "name": "TIGO SOLO EVENTOS",
         "uri": "https://b7i4j3n3.stackpathcdn.com/dlive-jsezhsghho/1689551200/src/live.m3u8",
 		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
       },
       {
-        "name": "TIGO HD",
-        "uri": "https://live.prd.dlive.tv/hls/live/dlive-jzsbmrxoxc.m3u8?mobileweb=true",
-		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
+        "name": "LA GUERRA DE LOS MUNDO EL TANQUE",
+        "uri": "https://github.com/ijaq/num/releases/download/lagde2mnd2/lguedelos2mun.ts",
+		"icono": "https://pics.filmaffinity.com/war_of_the_worlds_the_attack-702014720-mmed.jpg"
+      },
+      {
+        "name": "LOS 3 MOSQUETEROS",
+        "uri": "https://ia802704.us.archive.org/10/items/20230705_th3-thr33-musk3t33rs-d4rt4g3n-2023-hdts-1080p-latino-mp4/th3.thr33.musk3t33rs.d4rt4g3n.2023.hdts.1080p.latino.ia.mp4",
+		"icono": "https://i.blogs.es/56de11/mosqueteros/1366_2000.jpeg"
       },
       {
         "name": "TIGO ",
