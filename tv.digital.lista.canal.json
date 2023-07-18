@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORTSE",
+    "name": "TIGO SPORTS",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -1020,7 +1020,7 @@
         "name": "VENUS",
         "uri": "http://mtd.llc/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd",
 	 "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/hh46fty0kuygitj/KEY.VENUS.json".
+        "drm_license_uri": "https://dl.dropbox.com/s/hh46fty0kuygitj/KEY.VENUS.json",
 		"icono": "https://i.ibb.co/Y0N7xm4/3b18c6c8756dcec653e34087d329ce89.jpg"
       },
       {
