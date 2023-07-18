@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORTSe",
+    "name": "TIGO SPORTS",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -694,7 +694,43 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/rz1c8z7s0dm14ld6f2uo1/KEY.FOX.SPORTS3.json?rlkey=rlo6danu5d85evu8fllgpwscp&dl=0",
 	"icono": "https://i.ibb.co/2W84yn1/ar-fox-sports-3-m.png"
-
+	      
+      },
+      {
+        "name": "ESPN PREMIUM",
+        "uri": "http://201.235.66.116/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/zutyg2o7wwvyoumtoxa5f/KEY.SPAN.Premiun_HD.json?rlkey=rdlmfeqr92eb2jaai6rrifdey&dl=0",
+	"icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
+     },
+      {
+        "name": "ESPN",
+        "uri": "http://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/1kl9uswdqdpdxitn1zliq/KEY.SPAN_HD.json?rlkey=ntn9i40onqnfxznasx5tf8at6&dl=0",
+	"icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg"
+      },
+      {
+        "name": "ESPN 2 ",
+        "uri": "http://edge-live17-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/60nodgy1zvbs1u7s1zhaw/KEY.SPAN2_HD.json?rlkey=co8enjkexfcw77aekywk7inzj&dl=0",
+	"icono": "https://i.ibb.co/vH8JLS1/espn24510.jpg"
+      },
+      {
+        "name": "ESPN 3",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/ojtweeee080o4lxiudj6s/KEY.SPAN3HD.json?rlkey=hyjh72qp24grs3av58cfs0gdr&dl=0",
+	"icono": "https://i.ibb.co/NTHfMGT/ESPN3-CLR-Pos-642x405.jpg"
+	      
+      },
+      {
+        "name": "ESPN EXTRA",
+        "uri": "http://edge-live16-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/xvcb2rtotyfjdjwmvsiew/KEY.SPEN.EXTRA.json?rlkey=w2kggctnu2dqyawwtmf0ad5jc&dl=0",
+	"icono": "https://i.ibb.co/27M5YFg/espn-extra.jpg"      
       },
       {
          "name": "DIRECTV",
