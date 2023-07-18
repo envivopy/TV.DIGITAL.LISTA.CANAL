@@ -230,10 +230,10 @@
 		"icono": "https://i.ibb.co/3zrDZgx/unnamed-1.jpg"
       },
       {
-       "name": "CENTRAL TV",
-        "uri": "https://cloudtv.streaming.com.py/centraltv/centraltv/playlist.m3u8"
-	      "icono": "https://i.ibb.co/f9C18r2/4l-N0-XLZz-400x400.jpg"
-     },
+        "name": "CENTRAL TV PY",
+        "uri": "https://cloudtv.streaming.com.py/centraltv/centraltv/playlist.m3u8",
+		"icono": "https://i.ibb.co/f9C18r2/4l-N0-XLZz-400x400.jpg"
+      },
       {
        "name": "canalpropy",
         "uri": "https://edge-live31-sl.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_2A/Canal_PRO.mpd",
