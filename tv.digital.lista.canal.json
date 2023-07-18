@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORTSSS",
+    "name": "TIGO SPORTDD",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -1003,7 +1003,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/n8npkmjnphq68qmsl6plr/KEY.DAZNLA.LIGA.json?rlkey=i1y5t3mlc83htywdu2np1hfsg&dl=0",
 		"icono": "https://i.ibb.co/qn3n745/daznlaliga.png"  
-        }
+      }
     ]
   },
   {
@@ -1031,6 +1031,7 @@
     ]
   },
   {
+
     "name": "24/7",
     "samples": [
       {
