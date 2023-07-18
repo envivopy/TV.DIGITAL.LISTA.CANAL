@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORTS",
+    "name": "TIGO SPORTSE",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -1012,20 +1012,21 @@
       {
         "name": "PLAYBOY",
         "uri": "http://mtd.llc/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/172g4o8n14krxj4/KEY.PLAYBOY.json",
-
-   },
-  {
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/172g4o8n14krxj4/KEY.PLAYBOY.json".
+		"icono": "https://i.ibb.co/LkYqD58/playboy-bunny-logo.jpg"
+      },
+      {
         "name": "VENUS",
         "uri": "http://mtd.llc/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/hh46fty0kuygitj/KEY.VENUS.json",
-   },
-  {
+	 "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/hh46fty0kuygitj/KEY.VENUS.json".
+		"icono": "https://i.ibb.co/Y0N7xm4/3b18c6c8756dcec653e34087d329ce89.jpg"
+      },
+      {
         "name": "MIAMI TV",
         "uri": "https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8",
-		"icono": "https://i.ibb.co/Tc1bmmD/descarga-10.jpg"  	  
+		"icono": "https://i.ibb.co/ZSxmkV9/portfolio-channels-miamitv.png"
       }
     ]
   },
