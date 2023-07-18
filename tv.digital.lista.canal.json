@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORTSR",
+    "name": "TIGO SPORTS",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -1013,7 +1013,7 @@
         "name": "PLAYBOY",
         "uri": "http://mtd.llc/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd",
 	"drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/172g4o8n14krxj4/KEY.PLAYBOY.json".
+        "drm_license_uri": "https://dl.dropbox.com/s/172g4o8n14krxj4/KEY.PLAYBOY.json",
 		"icono": "https://i.ibb.co/LkYqD58/playboy-bunny-logo.jpg"
       },
       {
