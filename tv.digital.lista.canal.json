@@ -519,28 +519,28 @@
         "uri" : "http://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/8gs02i6on9vbrkrojyba1/KEY.UNIVERSAL.COMEDY.json?rlkey=z6h9uqng2opo8a6m8ifwe9ncn&dl=0",
-		"icono": "https://i.ibb.co/TbnqkXP/Universal-Comedy.png"
+		"icono": "http://static.tvar.io/imagenes/uncomedy.png"
       },
       {
         "name": "UNIVERSAL CRIME",
         "uri" : "http://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/oqcshr1efisq0lbb79w2p/KEY.UNIVERSAL.CRIME.json?rlkey=ab50erzuvsqyjn26fdx9msfpf&dl=0",
-		"icono": "https://i.ibb.co/CbYGMSc/universal-crime-dark-logo.png"
+		"icono": "http://static.tvar.io/imagenes/uncrime.png"
       },
       {
         "name": "UNIVERSAL PREMIERE",
         "uri" : "http://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/robmh5ubm9huay6scqpgh/KEY.UNIVERSAL.PREMIERE.json?rlkey=g2sj40pegtoarudvbi88nf8jg&dl=0",
-		"icono": "https://i.ibb.co/ZJmWhf8/SDADASDASD.png"
+		"icono": "http://static.tvar.io/imagenes/unpremiere.png"
       },
       {
         "name": "UNIVERSAL REALITY",
         "uri" : "https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kgbkq3i9w3o9jm7avlxxa/KEY.UNIVERSAL.REALITY.json?rlkey=wpuj0f8y5agjfhfwu45bdx6ct&dl=0",
-		"icono": "https://i.ibb.co/MkNK2c1/120254749.png"
+		"icono": "http://static.tvar.io/imagenes/unreality.png"
       },
       {
         "name": "GOLDEN",
