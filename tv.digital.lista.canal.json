@@ -16,33 +16,8 @@
         "name": "TIGO SOLO EVENTOS",
         "uri": "https://b7i4j3n3.stackpathcdn.com/dlive-jsezhsghho/1689551200/src/live.m3u8",
 		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
-
-        "name": "TIGO ",
-        "uri": "https://tgn.bozztv.com/ssh101/ssh101/tvtigo/chunks.m3u8",
-		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
-      }
-    ]
-  },
-  {
-	    "name": "PELICULAS EN CINES",
-    "samples": [
-      {
-        "name": "The Flash 2023",
-        "uri": "http://208.88.245.81/nuevo/the.flash.2023dual.mkv",
-		"icono": "https://pics.filmaffinity.com/the_flash-205686824-large.jpg"
       },
       {
-        "name": "Más respeto que soy tu madre",
-        "uri": "http://tuvideo.tv/cloud_2/Mas.respeto.que.soy.tu.madre.2022.720.lat.mp4",
-		"icono": "https://pics.filmaffinity.com/mas_respeto_que_soy_tu_madre-579775637-large.jpg"
-      },
-      {
-        "name": "Transformers: El despertar de las bestias",
-        "uri": "https://ia902603.us.archive.org/0/items/20230711_tr4nsf0rm3rs-r1s3-0f-th3-b34sts-2023-brrs-line-1080p-latino-mp4/tr4nsf0rm3rs.r1s3.0f.th3.b34sts.2023.brrs.line.1080p.latino.ia.mp4",
-		"icono": "https://pics.filmaffinity.com/transformers_rise_of_the_beasts-717876501-large.jpg"
-      },
-      {
-
         "name": "LA GUERRA DE LOS MUNDO EL TANQUE",
         "uri": "https://github.com/ijaq/num/releases/download/lagde2mnd2/lguedelos2mun.ts",
 		"icono": "https://pics.filmaffinity.com/war_of_the_worlds_the_attack-702014720-mmed.jpg"
@@ -52,15 +27,14 @@
         "uri": "https://ia802704.us.archive.org/10/items/20230705_th3-thr33-musk3t33rs-d4rt4g3n-2023-hdts-1080p-latino-mp4/th3.thr33.musk3t33rs.d4rt4g3n.2023.hdts.1080p.latino.ia.mp4",
 		"icono": "https://i.blogs.es/56de11/mosqueteros/1366_2000.jpeg"
       },
-      {     
-
-        "name": "Excasados 2021 ",
-        "uri": "https://pc-17.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/559004bf98f507ce9f506f64919c1a38/EP.0.2.v0.1675987925.720.m3u8",
-		"icono": "https://pics.filmaffinity.com/excasados-790146481-large.jpg"
+      {
+        "name": "TIGO ",
+        "uri": "https://tgn.bozztv.com/ssh101/ssh101/tvtigo/chunks.m3u8",
+		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
       }
     ]
   },
-  {  
+  {
     "name": "TV ARGENTINA",
     "samples": [
       {
