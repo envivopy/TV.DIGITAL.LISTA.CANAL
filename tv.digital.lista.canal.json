@@ -35,6 +35,32 @@
     ]
   },
   {
+	    "name": "PELICULAS EN CINES",
+    "samples": [
+      {
+        "name": "TIGO BOLIVIA",
+        "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8",
+		"icono": "https://i.ibb.co/nc21MFQ/1.jpg"
+      },
+      {
+        "name": "TIGO SOLO EVENTOS",
+        "uri": "https://live.prd.dlive.tv/hls/live/dlive-jzsbmrxoxc.m3u8?mobileweb=true",
+		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
+      },
+      {
+        "name": "TIGO SOLO EVENTOS",
+        "uri": "https://b7i4j3n3.stackpathcdn.com/dlive-jsezhsghho/1689551200/src/live.m3u8",
+		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
+      },
+      {
+
+        "name": "TIGO ",
+        "uri": "https://tgn.bozztv.com/ssh101/ssh101/tvtigo/chunks.m3u8",
+		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
+      }
+    ]
+  },
+  {  
     "name": "TV ARGENTINA",
     "samples": [
       {
