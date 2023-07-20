@@ -1156,7 +1156,7 @@
       },
       {
         "name": "MIAMI TV",
-        "uri": "https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8",
+        "uri": "https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8",
 		"icono": "https://i.ibb.co/ZSxmkV9/portfolio-channels-miamitv.png"
       }
     ]
