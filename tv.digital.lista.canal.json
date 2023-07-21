@@ -200,6 +200,13 @@
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.ibb.co/ZNRV2BF/descarga-3.jpg"
+	            },
+      {
+        "name": "CIUDAD MAGAZINE",
+        "uri": "https://edge-live17-hr.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/5uv7bznva0r4gd1k3al4y/KEY.CIUDAD.MAGAZINE.json?rlkey=r4gixsnqg6pbt9pdzn8mmuyx2&dl=0",
+		"icono": "https://i.ibb.co/1Tnfy2J/5909cf1f851d6-838x390.jpg"
       },
       {
         "name": "ENCUENTRO TV",
