@@ -505,7 +505,7 @@
     "name": "CANALES INFANTILES",
     "samples": [
       {
-        "name": "PAKA_PAKA",
+        "name": "PAKA PAKA",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=334001b2f2644df9bdf35e92d2b89f8f&key=475ec87d86ed0636dbb6d6d9d4a43bb7",
@@ -519,7 +519,7 @@
 	"icono": "https://i.postimg.cc/brdSzHKx/240px-Cartoon-Network-2010-logo-svg.png" 
       },
       {
-        "name": "Nick_Jr",
+        "name": "Nick Jr",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e824b2277a86fd6adfc40aa948e5064a&key=28da2dbbe8e1a1463bbb23895b922083",
@@ -534,7 +534,7 @@
 
       },
       {
-        "name": "Disney_ChannelHD",
+        "name": "Disney Channel",
         "uri": "http://edge-live11-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4a742e478d14023e1993e011d9415f94&key=0df77ede9bc744376836d21afa137dda",
@@ -542,7 +542,7 @@
 		  	      
       },
 	 {
-        "name": "Discovery_Kids",
+        "name": "Discovery Kids",
         "uri": "http://edge-live11-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ffb2f0f63c23a3592d4653e938b9ca19&key=d3661ae881fc55fc7a15815cd439747b",
