@@ -29,9 +29,15 @@
       "name": "PELICULAS EN CINES",
        "samples": [
       {
+        "name": "BARBIE LA PELICULA 2013",
+        "uri": "https://onedrive.live.com/download?resid=F5B8BEF483E98AED%212361&authkey=!AKELld-gOm3T7l8",
+		"icono": "https://image.tmdb.org/t/p/original/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg"
+      },
+      {
         "name": "Indiana Jones 5",
         "uri": "https://onedrive.live.com/download?resid=F5B8BEF483E98AED%212013&authkey=!AK7ODi3UgHStZ5k",
 		"icono": "https://i.ibb.co/QbFzTVb/images-q-tbn-ANd9-Gc-TFFRqn-OIa2-Y6h8r-DHVxz-Ff-Pb5mj-Ad-N94h-ya-Xk9ib-Fxsdk3-EY.jpg"
+	      
       },
       {
         "name": "The Flash 2023",
