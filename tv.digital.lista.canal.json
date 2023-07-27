@@ -467,23 +467,23 @@
       },
       {
         "name": "DISCOVERY ID",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc_2A/ID.mpd",
+        "uri": "http://edge-live31-hr.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc_2A/ID.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://ivotv.xyz/panel/keys/discoveryid.json",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/7uniky91ihzl3vm5vghl6/REY.DISCOVERY.ID.json?rlkey=6ro9kubxp84uhntvmae0pib5d&dl=0",
 		"icono": "https://i.postimg.cc/T3b2tgjr/ver-discovery-id-en-vivo.png"
       },
       {
         "name": "DISCOVERY SCIENCE",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2A/Discovery_Science.mpd",
+        "uri": "http://edge-live15-hr.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2A/Discovery_Science.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://ivotv.xyz/panel/keys/discoveryscience.json",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/beut1zpl9uq332jpni9ov/REY.DISCOVERY.SCENCIE.json?rlkey=w30srm13zimsp63kgmwkukd42&dl=0",
 		"icono": "https://i.postimg.cc/7Lg6Z0fx/ver-discovery-science-en-vivo.jpg"
       },
       {
         "name": "DISCOVERY TURBO",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_2A/DiscoveryTurbo.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://ivotv.xyz/panel/keys/discoveryturbo.json",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/xmv40iecmlgabt4pv8aw2/REY.DISCOVERY.TURBO.json?rlkey=vls9rwrr9lbgl3tlgi6w19tyl&dl=0",
 		"icono": "https://i.postimg.cc/sxtdWHNb/ver-discovery-turbo-en-vivo.jpg"
       },
       {
