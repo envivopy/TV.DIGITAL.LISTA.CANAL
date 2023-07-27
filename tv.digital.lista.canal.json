@@ -481,7 +481,7 @@
       },
       {
         "name": "DISCOVERY TURBO",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_2A/DiscoveryTurbo.mpd",
+        "uri": "http://edge-live12-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_2A/DiscoveryTurbo.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/xmv40iecmlgabt4pv8aw2/REY.DISCOVERY.TURBO.json?rlkey=vls9rwrr9lbgl3tlgi6w19tyl&dl=0",
 		"icono": "https://i.postimg.cc/sxtdWHNb/ver-discovery-turbo-en-vivo.jpg"
