@@ -460,9 +460,9 @@
       },
       {
         "name": "DISCOVERY H&H",
-        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+        "uri": "http://edge-live31-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "http://api.argentinatv.live/kbx1/discoveryhyh.json",
 		"icono": "https://i.postimg.cc/cCKGrGXQ/ver-discovery-h-h-en-vivo.png"
       },
       {
