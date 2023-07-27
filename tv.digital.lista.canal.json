@@ -462,7 +462,7 @@
         "name": "DISCOVERY H&H",
         "uri": "http://edge-live31-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "http://api.argentinatv.live/kbx1/discoveryhyh.json",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/d7rk6ej1ddvybs8a8papi/REY.discoveryhyh.json?rlkey=tde6hnhx7uezy8ibj5kkylp5o&dl=0",
 		"icono": "https://i.postimg.cc/cCKGrGXQ/ver-discovery-h-h-en-vivo.png"
       },
       {
