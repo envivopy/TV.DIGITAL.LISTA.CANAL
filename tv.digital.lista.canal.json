@@ -9,9 +9,11 @@
 
       },
       {
-        "name": "TIGO SOLO EVENTOS",
-        "uri": "https://tgn.bozztv.com/ssh101/ssh101/tvlat/playlist.m3u8",
-		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"  
+        "name": "TIGO HD",
+        "uri": "http://localhost-personal.duckdns.org/tigosports/3FfaeB0WzO8GOoHCEmKqxC.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c",
+		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
      },
       {
         "name": "TIGO OPC 2",
