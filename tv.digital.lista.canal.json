@@ -1173,14 +1173,14 @@
         "name": "PLAYBOY",
         "uri": "https://edge-live01-mun.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd",
 	"drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/172g4o8n14krxj4/KEY.PLAYBOY.json?dl=0",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/uiy6xd5nni8nag2sp71te/KEY.PLAYBOY.json?rlkey=artm6ju9q6ffrsijk0yl204jb&dl=0",
 		"icono": "https://i.ibb.co/LkYqD58/playboy-bunny-logo.jpg"
       },
       {
         "name": "VENUS",
         "uri": "https://edge-vod06-sl.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd",
 	 "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/hh46fty0kuygitj/KEY.VENUS.json?dl=0",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/anezyv69djwb2lxq780dk/KEY.VENUS.json?rlkey=336mlvledd38dxs95phdwaunf&dl=0",
 		"icono": "https://i.ibb.co/Y0N7xm4/3b18c6c8756dcec653e34087d329ce89.jpg"
       },
       {
