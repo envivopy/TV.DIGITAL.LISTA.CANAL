@@ -9,18 +9,18 @@
 
       },
       {
-        "name": "TIGO SOLO EVENTO",
+        "name": "TIGO SOLO EVENTOS",
         "uri": "https://tgn.bozztv.com/ssh101/ssh101/tvlat/playlist.m3u8",
 		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"  
      },
       {
-        "name": "TIGO señal propia",
+        "name": "TIGO OPC 2",
         "uri": "https://live-ak.vimeocdn.com/exp=1690666810~acl=%2Fcca50fb8-e990-438c-bf10-fdcb36b3fbea%2F%2A~hmac=d69f50299ba8d190474fd4b95a32abdc1b1a4b213b663dd3507f8c5500eb73dc/cca50fb8-e990-438c-bf10-fdcb36b3fbea/hls.m3u8",
 		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png" 
 	      
      },
       {
-        "name": "TIGO SOLO EVENTO 2",
+        "name": "TIGO OPC 3",
         "uri": "https://tgn.bozztv.com/ssh101/ssh101/video/playlist.m3u8",
 		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png" 
 	            
