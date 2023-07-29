@@ -1189,9 +1189,11 @@
 		"icono": "https://i.ibb.co/Y0N7xm4/3b18c6c8756dcec653e34087d329ce89.jpg"
       },
       {
-        "name": "MIAMI TV",
-        "uri": "https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8",
-		"icono": "https://i.ibb.co/ZSxmkV9/portfolio-channels-miamitv.png"
+        "name": "xxxxx",
+        "uri": "http://localhost-personal.duckdns.org/tigosports/3FfaeB0WzO8GOoHCEmKqxC.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c",
+		"icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
 
       }
     ]
