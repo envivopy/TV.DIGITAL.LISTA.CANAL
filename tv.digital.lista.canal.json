@@ -1176,6 +1176,11 @@
 	 "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/anezyv69djwb2lxq780dk/KEY.VENUS.json?rlkey=336mlvledd38dxs95phdwaunf&dl=0",
 		"icono": "https://i.ibb.co/Y0N7xm4/3b18c6c8756dcec653e34087d329ce89.jpg"
+      },
+      {
+        "name": "MIAMI TV",
+        "uri": "https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/chunklist_w1602095674.m3u8",
+		"icono": "https://i.ibb.co/ZSxmkV9/portfolio-channels-miamitv.png"  
 
       }
     ]
