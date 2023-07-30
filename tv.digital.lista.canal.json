@@ -928,6 +928,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kfqq6vt1l34y8o8shyezs/KEY.AMERICASPORTS.json?rlkey=crstq9x0w0z888yw42qauy8sx&dl=0",
 		"icono": "https://i.ibb.co/1rMMbhK/unnamed-6.jpg"
+  },
+  {
+        "name": "TYC SPORTS",
+        "uri" : "https://edge-live12-sl.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/tycsp0rt.json",
+		"icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"  
 
   },
   {
@@ -1004,14 +1011,6 @@
         "name": "REAL MADRID TV",
         "uri": "http://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8",
 	      "icono": "https://i.ibb.co/gmnkhH2/Real-Madrid-TV-English.jpg"
-
-  },
-  {
-        "name": "TYC SPORTS",
-        "uri" : "https://edge-live11-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/tycsp0rt.jso",
-		"icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
   },
   {
         "name": "GOLF CHANNEL",
