@@ -1046,7 +1046,7 @@
         "name": "PREMIERE 3",
         "uri" : "https://dtvott-jbc.akamaized.net/dash_live_0113/manifest.mpd?da=0&country=UY&accountType=OTT",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/5s6qrsavo2ffu8uu6rkca/KEY.PREMIERE2.json?rlkey=4iui85yu3gsamr7mu5jromnxg&dl=0",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/z34kx4uxka2klc609e2uu/KEY.PREMIERE3.json?rlkey=6unuxs6e4emh2jguw9wx1j8g0&dl=0",
 		"icono": "https://i.ibb.co/hy5M2fm/f73d77346f52e03b5654d65fc4aba890.jpg"
   },
   {
