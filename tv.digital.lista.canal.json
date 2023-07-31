@@ -270,11 +270,11 @@
       "name": "TEATRIX TV OPC 3",
       "uri": "http://content-asae1-up-2.uplynk.com/399cf69cc18842dea9046c9f7ed07dbf/e.m3u8",
 		"icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg",       
+
       }
     ]
   },
-  {
-	  
+  {  
     "name": "tv argentina interior",
     "samples": [
       {
@@ -331,7 +331,7 @@
 },
 {
         "name": "CANAL 6 POSADAS",
-        "uri": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8"
+        "uri": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8",
 		"icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/C6Digital.png"
 },
 {
