@@ -68,7 +68,7 @@
         "name": "Super Mario Bros: La película",
         "uri": "https://github.com/ijaq/num/releases/download/reni/m@reosbres.mp4",
 		"icono": "https://pics.filmaffinity.com/the_super_mario_bros_movie-521125124-large.jpg"  
-     },
+      },
       {
         "name": "Los caballeros del zodiaco",
         "uri": "https://github.com/Gumberiito/Deves-Argentina.github.io/releases/download/loscaballeros/LOSCABALLEROS.ts",
@@ -109,7 +109,7 @@
 		"icono": "https://i.ibb.co/JHHx4HH/e1dc8733904ec35e5d081ebbf0eb2d64-750x400.gif"
 
       },
-     {
+      {
         "name": "EL TRECE ",
         "uri": "http://edge-live13-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd",
         "drm_scheme": "clearkey",
@@ -123,14 +123,14 @@
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.ibb.co/cvLm0JB/canal9.jpg"
       },
-	  {
+      {
         "name": "AMERICA TV",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_wl/AmericaTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg"
       },
-	  {
+      {
         "name": "TV PUBLICA",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
         "drm_scheme": "widevine",
@@ -271,7 +271,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/heg0oev5bm5n4nhr74ilq/KEY.canal12misiones.json?rlkey=sazgmn8reshu1c9zqqa8bwty8&dl=0",
 		"icono": "https://static.tvar.io/imagenes/canal12misiones.png"
-
       },
       {
         "name": "Multivision Cable",
@@ -299,7 +298,7 @@
 	 "icono": "https://static-cdn.jtvnw.net/jtv_user_pictures/c14e9545-b484-473a-b31d-680b95e4de4c-profile_image-70x70.png"
 
       },
-    v {
+      {
         "name": "CANAL 11 MACHAGAY CHACO",
         "uri": "https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8",
 		"icono": "https://oncedigital.com.ar/wp-content/uploads/2022/11/cropped-qqqqqq.png"
@@ -313,8 +312,8 @@
         "name": "MULTIPLATAFORMA FENIX LA RIOJA",
         "uri": "http://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8",
 		"icono": "https://static.tvar.io/imagenes/fenixtv.jpeg"
-       },
-       {
+     },
+     {
 
         "name": "Canal 9 la Rioja",
         "uri": "https://inliveserver.com:1936/17012/17012/playlist.m3u8",
@@ -362,8 +361,6 @@
       {
         "name": "Canal 34 San juan",
         "uri": "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/5uv7bznva0r4gd1k3al4y/KEY.CIUDAD.MAGAZINE.json?rlkey=r4gixsnqg6pbt9pdzn8mmuyx2&dl=0",
 		"icono": "https://static.tvar.io/imagenes/34sanjuan.png"
       },
       {
