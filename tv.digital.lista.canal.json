@@ -330,16 +330,14 @@
 		"icono": "https://static.tvar.io/imagenes/canal9larioja.png"
 },
 {
-        "name": "STUDIO UNIVERSAL",
-        "uri" : "https://edge-live31-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A/Studio_Universal.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
-		"icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg"
+        "name": "CANAL 6 POSADAS",
+        "uri": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8"
+		"icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/C6Digital.png"
 },
 {
         "name": "SILVER CHANNEL",
         "uri": "https://panel.dattalive.com/8158/8158/chunklist_w747032926.m3u8",
-		"icono": "https://mundialtvdigital.com/silver.jpeg"
+		"icono": "https://mundialtvdigital.com/silver.jpg"
 },
 {
         "name": "Telesol San Juan",
