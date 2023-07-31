@@ -1232,9 +1232,8 @@
 		"icono": "https://static.tvar.io/imagenes/fenixtv.jpeg"
      },
      {
-
-        "name": "Canal 9 la Rioja",
-        "uri": "https://inliveserver.com:1936/17012/17012/playlist.m3u8",
+      "name": "Canal 9 la Rioja",
+       "uri": "https://inliveserver.com:1936/17012/17012/playlist.m3u8",
 		"icono": "https://static.tvar.io/imagenes/canal9larioja.png"
       },
       {
@@ -1373,3 +1372,4 @@
     ]
   },
   {
+
