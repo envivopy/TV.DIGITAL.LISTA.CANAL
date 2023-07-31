@@ -1187,7 +1187,7 @@
         "name": "CANAL 12 MISIONES",
         "uri": "http://edge-live17-hr.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_Live_dash_enc_2A/CH_12_Posadas.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/ckf5zojjikq9v5phkwgdp/KEY.TELEFE.json?rlkey=gi2h8txpf1b9agaflo6g1v5a0&dl=0",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/heg0oev5bm5n4nhr74ilq/KEY.canal12misiones.json?rlkey=sazgmn8reshu1c9zqqa8bwty8&dl=0",
 		"icono": "https://static.tvar.io/imagenes/canal12misiones.png"
 
  },
@@ -1242,7 +1242,7 @@
  {
         "name": "SILVER CHANNEL",
         "uri": "https://panel.dattalive.com/8158/8158/chunklist_w747032926.m3u8",
-		"icono": "https://mundialtvdigital.com/silver.jpeg"
+		"icono": "https://mundialtvdigital.com/silver.jpg"
  },
  {
         "name": "Telesol San Juan",
