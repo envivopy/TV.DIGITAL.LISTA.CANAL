@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO0 SPORTS",
+    "name": "TIGO SPORTS",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -318,13 +318,6 @@
 		"icono": "https://static.tvar.io/imagenes/canal9larioja.png"
       },
       {
-        "name": "STUDIO UNIVERSAL",
-        "uri" : "https://edge-live31-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A/Studio_Universal.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
-		"icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg"
-      },
-      {
         "name": "SILVER CHANNEL",
         "uri": "https://panel.dattalive.com/8158/8158/chunklist_w747032926.m3u8",
 		"icono": "https://mundialtvdigital.com/silver.jpeg"
@@ -360,7 +353,7 @@
       },
       {
         "name": "Canal 30 San juan",
-        "uri" : "https://y.tvar.io/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@canal30sanjuantv",
+        "uri" : "https://y.tvar.io/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@canal30sanjuantv"
 		"icono": "https://static.tvar.io/imagenes/canal30sanjuan.png"
       },
       {
