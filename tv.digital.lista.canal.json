@@ -1177,6 +1177,233 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/n8npkmjnphq68qmsl6plr/KEY.DAZNLA.LIGA.json?rlkey=i1y5t3mlc83htywdu2np1hfsg&dl=0",
 		"icono": "https://i.ibb.co/qn3n745/daznlaliga.png"  
+  }
+    ]
+  },
+  {
+
+ "name": "TV ARGENTINA",
+    "samples": [
+      {
+        "name": "CANAL 12 MISIONES",
+        "uri": "http://edge-live17-hr.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_Live_dash_enc_2A/CH_12_Posadas.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/heg0oev5bm5n4nhr74ilq/KEY.canal12misiones.json?rlkey=sazgmn8reshu1c9zqqa8bwty8&dl=0",
+		"icono": "https://static.tvar.io/imagenes/canal12misiones.png"
+
+      },
+     {
+        "name": "Multivision Cable",
+        "uri": "http://edge-live13-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/ys35uiuvpe1pjqo1qodkm/KEY.ELTRECE.json?rlkey=om3bspgh8rrciw6li4am3ur30&dl=0",
+		"icono": "https://static.tvar.io/imagenes/multivisioncable.jpg"
+      },
+      {
+        "name": "SPTV SAN PEDRO",
+        "uri": "https://edge-live13-sl.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "http://static.tvar.io/imagenes/sptv32.png"
+      },
+	  {
+        "name": "GEN TV",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_wl/AmericaTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://latinartv.com/sites/default/files/logos/gentv.jpg"
+      },
+	  {
+        "name": "CHAMAME TV CORRIENTES",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static-cdn.jtvnw.net/jtv_user_pictures/c14e9545-b484-473a-b31d-680b95e4de4c-profile_image-70x70.png"
+
+      },
+	  {
+        "name": "CANAL 11 MACHAGAY CHACO",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/8qezeqv7vj1qu9u/KEY.C5N.json",
+		"icono": "https://oncedigital.com.ar/wp-content/uploads/2022/11/cropped-qqqqqq.png"
+      },
+	  {
+        "name": "Canal 9 Santa Cruz",
+        "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static.tvar.io/imagenes/canal9santacruz.png"
+      },
+	  {
+        "name": "MULTIPLATAFORMA FENIX LA RIOJA",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/xuddigrz6hxqxn0wj2xfm/KEY.CRONICA.TV.json?rlkey=tbt7trfodbo6gkxm5w7vtvmj1&dl=0",
+		"icono": "https://static.tvar.io/imagenes/fenixtv.jpeg"
+      },
+       {
+
+        "name": "Canal 9 la Rioja",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/6rnhvi466d8c62tackc3m/KEY.CANAL.26.json?rlkey=edi6dma78hs5uui9kkf9owazz&dl=0",
+		"icono": "https://static.tvar.io/imagenes/canal9larioja.png"
+      },
+      {
+        "name": "SILVER CHANNEL",
+        "uri": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8",
+		"icono": "https://mundialtvdigital.com/silver.jpeg"
+      },
+      {
+        "name": "Telesol San Juan",
+        "uri": "https://edge-live31-hr.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_2A/BravoTV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/ku3d8yzsa6hqnwyevq8ng/KEY.BRAVO.TV.json?rlkey=5xxws45wqa93j0fuqbpcchkcl&dl=0",
+		"icono": "https://static.tvar.io/imagenes/telesol.png"
+      },
+      {
+        "name": "ARGENTINISIMA SATELITAL",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/44p1aws6j2n0qbe/keyargentinisima.json",
+		"icono": "https://i.ibb.co/G0zCDL0/descarga-1.png"
+      },
+      {
+        "name": "CANAL 12 CORDOBA",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/a97iw0i52tkmqchsfm1ml/KEY.CANAL-12-CORDOBA.json?rlkey=p5ctuf2ahfnbs0kj3by5ituih&dl=0",
+		"icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
+      },
+      {
+        "name": "Canal 8 San Juan",
+        "uri" : "https://edge-live15-sl.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_2A/Volver.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static.tvar.io/imagenes/canalochosanjuan.png"
+      },
+      {
+        "name": "Canal 4 San Juan",
+        "uri" : "https://edge-live12-sl.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static.tvar.io/imagenes/canal4sanjuan.png"
+      },
+      {
+        "name": "Canal 30 San juan",
+        "uri" : "https://edge-live15-sl.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_2A/Volver.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static.tvar.io/imagenes/canal30sanjuan.png"
+	            },
+      {
+        "name": "Canal 34 San juan",
+        "uri": "https://edge-live17-hr.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/5uv7bznva0r4gd1k3al4y/KEY.CIUDAD.MAGAZINE.json?rlkey=r4gixsnqg6pbt9pdzn8mmuyx2&dl=0",
+		"icono": "https://static.tvar.io/imagenes/34sanjuan.png"
+      },
+      {
+        "name": "Albardon TV",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static.tvar.io/imagenes/albardontv.png"
+     },
+      {
+        "name": "TELEFE CORDOBA",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static.tvar.io/imagenes/telefecba.png"
+      },
+      {
+        "name": "CANAL 12 CORDOBA",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static.tvar.io/imagenes/canal12cba.jpg"
+      },
+      {
+
+        "name": "CANAL 10 CORDOBA",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static.tvar.io/imagenes/canal10cba.jpg"
+      },
+      {
+
+        "name": "CANAL 13 RIO CUARTO",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static.tvar.io/imagenes/canal13riocuarto.jpg"
+	  
+      },
+      {
+
+        "name": "TELEFE SANTA FE",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static.tvar.io/imagenes/telefesfe.png"
+      },
+      {
+
+        "name": "Canal 9 Litoral",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static.tvar.io/imagenes/canal9litoral.png"
+      },
+      {
+
+        "name": "TELEFE ROSARIO",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static.tvar.io/imagenes/teleferosario.png"
+      },
+      {
+
+        "name": "CANAL 3 ROSARIO",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static.tvar.io/imagenes/canal3rosario.png"
+      },
+      {
+
+        "name": "TELEFE NEUQUEN",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static.tvar.io/imagenes/telefeneuquen.png"
+      },
+      {
+
+        "name": "13 Max Televisión",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static.tvar.io/imagenes/13maxdigital.png"
+      },
+      {
+        "name": "TELEFE BAHIA BLANCA",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static.tvar.io/imagenes/telefebahia.png"
+      },
+      {
+        "name": "Canal Siete Bahía Blanca",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
+		"icono": "https://static.tvar.io/imagenes/canal7bahia.png"
+
       }
     ]
   },
