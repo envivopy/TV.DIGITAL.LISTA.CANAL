@@ -13,7 +13,7 @@
 		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
       },
       {
-        "name": "TIGO SOLO EVENTOS",
+        "name": "TIGO SOLO EVENTO",
         "uri": "https://ssh101.bozztv.com/ssh101/famustvesputo/chunks.m3u8",
 		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"  
       },
@@ -39,18 +39,6 @@
       "name": "PELICULAS EN CINES",
        "samples": [
       {
-	 "name": "Gritos Del Monday - Película",
-        "uri": "https://hls.ondemandlatino.com/v2/202203/latino/movie/screen/Gritos_del_Monday_Full_HD-2022-03-24-21-23-10.mp4/HLS/modified_playlist_1080p.m3u8",
-		"icono": "https://d2y2efdi5wgkcl.cloudfront.net/fit-in/880x1280/media-io/2022/5/25/portrait_content__gr.cd021878.jpg"
-	      
-      },
-      {  
-	 "name": "Indiana Jones 5",
-        "uri": "https://onedrive.live.com/download?resid=F5B8BEF483E98AED%212013&authkey=!AK7ODi3UgHStZ5k",
-		"icono": "https://i.ibb.co/QbFzTVb/images-q-tbn-ANd9-Gc-TFFRqn-OIa2-Y6h8r-DHVxz-Ff-Pb5mj-Ad-N94h-ya-Xk9ib-Fxsdk3-EY.jpg"
-	      
-      },
-      {  
         "name": "BARBIE LA PELICULA 2023",
         "uri": "https://corsproxy.io/?url=http://localhost-personal.duckdns.org/googleapi/google.php?video=VAiJvnsyeET_layFarr3f9sSlFkWDJrRILtcQy8zyGXYbNWdeTtYySixBwTh1SIuxB.SCWvMi5kZ5RGNs48ptY3Jjop5amJ_RKZZRE_cJ1KLyuz3ZXiLIYvLXFwrCnJv",
 		"icono": "https://image.tmdb.org/t/p/original/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg"
@@ -80,7 +68,7 @@
         "name": "Super Mario Bros: La película",
         "uri": "https://github.com/ijaq/num/releases/download/reni/m@reosbres.mp4",
 		"icono": "https://pics.filmaffinity.com/the_super_mario_bros_movie-521125124-large.jpg"  
-      },
+     },
       {
         "name": "Los caballeros del zodiaco",
         "uri": "https://github.com/Gumberiito/Deves-Argentina.github.io/releases/download/loscaballeros/LOSCABALLEROS.ts",
@@ -105,8 +93,9 @@
       {
         "name": "Muerte infinita",
         "uri": " https://ffbc104dd0103c16c80f65c3181f1bbf5446d62356dde6ae3871c2b-apidata.googleusercontent.com/download/storage/v1/b/bisco-01/o/64b54e900a2112204033b982.mp4?jk=AYvHSRERYkinXX3LMk0RffueJG0bJ4f0XkkIBM2Jr-f_oC7C4JCnUjvWMeMgbN-uOuQ60CUGkOkEtXnfvE5CTYAA9ZvHyxpW3D0nPYDEZ244hslfdKTTpR9TPR5cQh0i87Hj3eAb0K2pW7-IsPO0aRGBo6VWEE2_jON64BmJeU-utzaf1LJ35ny6J5_6Zic3vsrf_7OjM8ZQCG4woqQdbKnA8S6Bn9xRixATShZsNTlZ5yVah0sZJrxL8Iuyb13i3JUfAyLWH3CO2WWs5zcSO-olQiztfU4fDtNj7R9Kxnqwtyx1q6RnT0ie_W_PEulfCp8tYQF5DE4R-ZD2XIippVztLVeJzDxaEl62uxhtcHAqqwDN4b2F2qWIIbAR9jXn6yjuaFxGMGHNtCu73Ve9GcpH5rU6FgTi6mZBiyWmTurjItW266OqoGft95Rw5esLLAhc_XOa42Rq9K7Q3NzpBngAHAiDYmsimbFP2IUjSj5zDh72RUiNtMOmNE1kruNw160hL7P8hQKSlXLo_-z_nTO9u0hp95zNrw3cpF8a2xBjqp65p-ZIAlea9X0bVI1L5BCCrKB-YFQw2Ni2rnkAGgH57hK0n-Kae0yCUcwugIN7_mD95QfDRKooifWAdQn5pEuQ1eNThB4hE0aqSxbZzJ2DQjozrCl1BVQKuszgsp-n2uB6GbC0d3ZJ9y4v4-_fby18xCz85iKrepTOM6fS2jLhslzzSzvZf7nw7B59tyZKDdRAKq8zLmUEAtdM2dQ36U9FgH6kIn7UoBVJDiczvhzsgBUWxpQkB052n45vO5yLzltP0W-MBHUcxpsZh0m8Mhxd6o_yVVrLQ4dxz_qEJmjZyc80kaj-43u9qwFsYzKEK3auP-Tlu2DZovLlFtk_VfF-RFonFwW18yFCxW9tSgtSbDFk0KdZbn8Ey5v1tlMPXm_PlzUj7O0KlGJ89A5iyOO4c18fczHU5gobtri3l8PUHIjYEzDu0U7h6HJnFpywzivfMRI3wGvWvECCycF9E4_TSwD0QZaeuxXo01h4zTprs2mhtlnwGAkqN0u6ZMPClcfj8pwOYWXghtYz2NwInY4qEgnAUHBgp-bjJcMXRr4sYwmzmpjOKiOeIegysnva07IOxS01G1uRti91XjrAscmXa1VP9JxjTUwXXtI4Xql8Aap3VG-aKmc02lgDQRrMqFBcI7mVWcqFsHOKODG9tz999jAA0Xr-HiJopA&isca=1",
-		"icono": "https://pics.filmaffinity.com/transformers_rise_of_the_beasts-717876501-large.jpg"	                 
-       }
+		"icono": "https://pics.filmaffinity.com/transformers_rise_of_the_beasts-717876501-large.jpg"
+
+      }
     ]
   },
   {
@@ -120,7 +109,7 @@
 		"icono": "https://i.ibb.co/JHHx4HH/e1dc8733904ec35e5d081ebbf0eb2d64-750x400.gif"
 
       },
-      {
+     {
         "name": "EL TRECE ",
         "uri": "http://edge-live13-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd",
         "drm_scheme": "clearkey",
@@ -134,14 +123,14 @@
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.ibb.co/cvLm0JB/canal9.jpg"
       },
-      {
+	  {
         "name": "AMERICA TV",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_wl/AmericaTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg"
       },
-      {
+	  {
         "name": "TV PUBLICA",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
         "drm_scheme": "widevine",
@@ -149,21 +138,21 @@
 		"icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg"
 
       },
-      {
+	  {
         "name": "C5N",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/8qezeqv7vj1qu9u/KEY.C5N.json",
 		"icono": "https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg"
       },
-      {
+	  {
         "name": "TN NOTICIAS",
         "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.ibb.co/Ws0Z97Y/AGF-l7-ij-GDo3i-LYPot57-Ah1z-N-c-Giz-SL0f-Ju5-A31w-s900-mo-c-c0xffffffff-rj-k-no.jpg"
       },
-      {
+	  {
         "name": "CRONICA TV",
         "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
         "drm_scheme": "clearkey",
@@ -177,8 +166,8 @@
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.ibb.co/z2QvG13/Logo-a24.jpg"
   
-     },
-     {
+  },
+  {
 
         "name": "CANAL 26",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
@@ -232,7 +221,7 @@
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.ibb.co/ZNRV2BF/descarga-3.jpg"
-      },
+	            },
       {
         "name": "CIUDAD MAGAZINE",
         "uri": "https://edge-live17-hr.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd",
@@ -246,7 +235,7 @@
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.ibb.co/WVrgyCt/unnamed-2.jpg"
-      },
+     },
       {
         "name": "GRAN HERMANO ARGENTINA",
         "uri": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
@@ -257,211 +246,19 @@
         "uri": "http://content-asae1-up-1.uplynk.com/4bfeeae627a24d6a9f0e1ded7b020df0/f.m3u8",
 		"icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
  
-       },
-       {
+  },
+  {
 
-        "name": "TEATRIX TV OPC 2",
-        "uri": "http://mundialtvdigital.com/xd/teatrix.m3u8",
+   "name": "TEATRIX TV OPC 2",
+ "uri": "http://mundialtvdigital.com/xd/teatrix.m3u8",
 		"icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
-       },
-       {
-
-         "name": "TEATRIX TV OPC 3",
-         "uri": "http://content-asae1-up-2.uplynk.com/399cf69cc18842dea9046c9f7ed07dbf/e.m3u8",
-		"icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg",       
-
-      }
-    ]
-  },
-  {  
-    "name": "tv argentina interior",
-    "samples": [
-      {
-        "name": "CANAL 12 MISIONES",
-        "uri": "http://edge-live17-hr.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_Live_dash_enc_2A/CH_12_Posadas.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/heg0oev5bm5n4nhr74ilq/KEY.canal12misiones.json?rlkey=sazgmn8reshu1c9zqqa8bwty8&dl=0",
-		"icono": "https://static.tvar.io/imagenes/canal12misiones.png"
- },
- {
-        "name": "Multivision Cable",
-        "uri": "https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8",
-		"icono": "https://static.tvar.io/imagenes/multivisioncable.jpg"
- },
- {
-        "name": "SPTV SAN PEDRO",
-        "uri": "https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8",
-		"icono": "http://static.tvar.io/imagenes/sptv32.png"
- },
- {
-        "name": "GEN TV",
-        "uri": "https://inliveserver.com:1936/14056/14056/playlist.m3u8",
-		"icono": "https://latinartv.com/sites/default/files/logos/gentv.jpg"
- },
- {
-        "name": "STREAM MAX JUJUY",
-         "uri": "https://srv6.zcast.com.br/streamax/streamax/playlist.m3u8",
-	 "icono": "https://static.tvar.io/imagenes/streammax.png"
-},
-{
-        "name": "CHAMAME TV CORRIENTES",
-         "uri": "https://srv2.zcast.com.br/chamame/chamame/playlist.m3u8",
-	 "icono": "https://static-cdn.jtvnw.net/jtv_user_pictures/c14e9545-b484-473a-b31d-680b95e4de4c-profile_image-70x70.png"
- },
-{
-        "name": "CANAL 11 MACHAGAY CHACO",
-        "uri": "https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8",
-		"icono": "https://oncedigital.com.ar/wp-content/uploads/2022/11/cropped-qqqqqq.png"
- },
- {
-        "name": "Canal 9 Santa Cruz",
-        "uri": "https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8",
-		"icono": "https://static.tvar.io/imagenes/canal9santacruz.png"
- },
- {
-        "name": "MULTIPLATAFORMA FENIX LA RIOJA",
-        "uri": "http://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8",
-		"icono": "https://static.tvar.io/imagenes/fenixtv.jpeg"
-},
- {
-        "name": "Canal 9 la Rioja",
-        "uri": "https://inliveserver.com:1936/17012/17012/playlist.m3u8",
-		"icono": "https://static.tvar.io/imagenes/canal9larioja.png"
-},
-{
-        "name": "CANAL 6 POSADAS",
-        "uri": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8",
-		"icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/C6Digital.png"
-},
-{
-        "name": "SILVER CHANNEL",
-        "uri": "https://panel.dattalive.com/8158/8158/chunklist_w747032926.m3u8",
-		"icono": "https://mundialtvdigital.com/silver.jpg"
-},
-{
-        "name": "Telesol San Juan",
-        "uri": "https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8?nimblesessionid=698951",
-		"icono": "https://static.tvar.io/imagenes/telesol.png"
-      },
-      {
-        "name": "ARGENTINISIMA SATELITAL",
-        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/44p1aws6j2n0qbe/keyargentinisima.json",
-		"icono": "https://i.ibb.co/G0zCDL0/descarga-1.png"
-      },
-      {
-        "name": "CANAL 12 CORDOBA",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/a97iw0i52tkmqchsfm1ml/KEY.CANAL-12-CORDOBA.json?rlkey=p5ctuf2ahfnbs0kj3by5ituih&dl=0",
-		"icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
-      },
-      {
-        "name": "Canal 8 San Juan",
-        "uri" : "https://mtd.llc/canal8sanjuan.m3u8",
-		"icono": "https://static.tvar.io/imagenes/canalochosanjuan.png"
   },
   {
-        "name": "Canal 4 San Juan",
-        "uri" : "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
-		"icono": "https://static.tvar.io/imagenes/canal4sanjuan.png"
-  },
-  {
-        "name": "Canal 30 San juan",
-        "uri" : "https://y.tvar.io/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@canal30sanjuantv",
-		"icono": "https://static.tvar.io/imagenes/canal30sanjuan.png"
-      },
-      {
-        "name": "Canal 34 San juan",
-        "uri": "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8",
-		"icono": "https://static.tvar.io/imagenes/34sanjuan.png"
-  },
-  {
-        "name": "Albardon TV",
-        "uri": "https://vd01.streaminghd.net.ar:3451/stream/play.m3u8",
-		"icono": "https://static.tvar.io/imagenes/albardontv.png"
- },
- {
-        "name": "TELEFE CORDOBA",
-        "uri": "http://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_2A/Canal_8_CBA.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/z21uds8janr6tb9jvvs8w/KEY.telefe.cordoba.json?rlkey=qynf51jetwjqjryw67tuyrpf5&dl=0",
-		"icono": "https://static.tvar.io/imagenes/telefecba.png"
-},
-{
-        "name": "CANAL 12 CORDOBA",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/a97iw0i52tkmqchsfm1ml/KEY.CANAL-12-CORDOBA.json?rlkey=p5ctuf2ahfnbs0kj3by5ituih&dl=0",
-		"icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
-},
-{
-        "name": "CANAL 10 CORDOBA",
-        "uri": "https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8",
-		"icono": "https://static.tvar.io/imagenes/canal10cba.jpg"
- },
- {
-        "name": "CANAL 13 RIO CUARTO",
-        "uri": "http://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8",
-		"icono": "https://static.tvar.io/imagenes/canal13riocuarto.jpg"
 
- },
-{
-        "name": "TELEFE SANTA FE",
-        "uri": "http://edge-live13-sl.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc_2A/Canal_13_SFE.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/t7pxt5clheq2kgonc40jb/KEY.telefe.santa.fe.json?rlkey=qfm4iap0vn5m0h1zjh2mqfk1e&dl=0",
-		"icono": "https://static.tvar.io/imagenes/telefesfe.png"
-},
-{
-        "name": "Canal 9 Litoral",
-        "uri": "http://edge-live13-sl.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_Live_dash_enc_2A/Canal_9_Parana.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/jhfg3zst0pcudtz65nuj4/KEY.canqal.9.litoral.json?rlkey=tsl6f8mtd2ybk93idsa7soocu&dl=0",
-		"icono": "https://static.tvar.io/imagenes/canal9litoral.png"
- },
- {
-        "name": "TELEFE ROSARIO",
-        "uri": "http://edge-live13-sl.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc_2A/Canal_5_Rosario.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/3e8oywvgpo6wj48y88owe/KEY.telefe.rosario.json?rlkey=5mdzysk3iis67bjgvf9hc4k9u&dl=0",
-		"icono": "https://static.tvar.io/imagenes/teleferosario.png"
-
-},
-{
-        "name": "CANAL 3 ROSARIO",
-        "uri": "http://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_2A/Canal_3_Rosario.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/b4p2pkcgrtb0clsx30hvc/KEYcanal.3.rosario.json?rlkey=2r74dkb51x4g4vh9xts5nhm5w&dl=0",
-		"icono": "https://static.tvar.io/imagenes/canal3rosario.png"
-},
-{
-        "name": "TELEFE NEUQUEN",
-        "uri": "http://edge-live17-hr.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc_2A/Telefe_Neuquen.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/q8llw64f79ma1snak176h/KEY.telefe.neuquen.json?rlkey=x44os1tsl3ews1potwi2infoe&dl=0",
-		"icono": "https://static.tvar.io/imagenes/telefeneuquen.png"
-},
-{
-        "name": "13 Max Televisión",
-        "uri": "http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w247540946.m3u8",
-		"icono": "https://static.tvar.io/imagenes/13maxdigital.png"
-},
-{
-        "name": "TELEFE BAHIA BLANCA",
-        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc_2A/Canal9_Bahia_Blanca.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/rbgs7hsxairw06c2h75j0/KEY.TELEFE-BAHIA-BLANCA.json?rlkey=i713hwikxol6h3baync9e9dtd&dl=0",
-		"icono": "https://static.tvar.io/imagenes/telefebahia.png"
-},
-{
-        "name": "Canal Siete Bahía Blanca",
-        "uri": "http://edge-live12-sl.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc_2A/Canal7_Bahia_Blanca.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kpqizi69fltwkik469ozu/KEY.Canal-Siete-Bah-a-Blanca.json?rlkey=fx4dkwg083c3iitmlc08rsjuw&dl=0",
-		"icono": "https://static.tvar.io/imagenes/canal7bahia.png"
-  
+   "name": "TEATRIX TV OPC 3",
+ "uri": "http://content-asae1-up-2.uplynk.com/399cf69cc18842dea9046c9f7ed07dbf/e.m3u8",
+		"icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
+	  
       }
     ]
   },
@@ -1136,6 +933,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mxpubvdpkk8ertisjdpjn/KEY.DIRECTVSPORTSFIGHT.json?rlkey=dqcajlyebuyym3x1lew0qpfvy&dl=0",
 		"icono": "https://i.postimg.cc/857GJkFb/DSPORTS-FIGHT.png"
+          },
+      {
+        "name": "TYC SPORT",
+        "uri": "https://edge-live12-sl.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D=",
+		"icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
   },
   {
         "name": "AMERICA SPORTS",
@@ -1148,7 +952,7 @@
         "name": "TYC SPORTS",
         "uri" : "https://edge-live12-sl.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/y7ltujo4dfir5bf5rfyi4/KEY.tyc.json?rlkey=c4gk31n1ihiibhuzu882v0urb&dl=0",
+        "drm_license_uri": "https://silverplaytv.store/koey/tycsp0rt.json",
 		"icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"  
 
   },
@@ -1372,11 +1176,5 @@
         "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd?p=web",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/n8npkmjnphq68qmsl6plr/KEY.DAZNLA.LIGA.json?rlkey=i1y5t3mlc83htywdu2np1hfsg&dl=0",
-		"icono": "https://i.ibb.co/qn3n745/daznlaliga.png" 
-	      
-      }
-    ]
-  },
-  {
-
+		"icono": "https://i.ibb.co/qn3n745/daznlaliga.png"  
 
