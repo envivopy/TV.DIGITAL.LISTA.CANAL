@@ -138,21 +138,21 @@
 		"icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg"
 
       },
-	  {
+      {
         "name": "C5N",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/8qezeqv7vj1qu9u/KEY.C5N.json",
 		"icono": "https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg"
       },
-	  {
+      {
         "name": "TN NOTICIAS",
         "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.ibb.co/Ws0Z97Y/AGF-l7-ij-GDo3i-LYPot57-Ah1z-N-c-Giz-SL0f-Ju5-A31w-s900-mo-c-c0xffffffff-rj-k-no.jpg"
       },
-	  {
+      {
         "name": "CRONICA TV",
         "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
         "drm_scheme": "clearkey",
@@ -166,8 +166,8 @@
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.ibb.co/z2QvG13/Logo-a24.jpg"
   
-  },
-  {
+     },
+     {
 
         "name": "CANAL 26",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
@@ -221,7 +221,7 @@
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.ibb.co/ZNRV2BF/descarga-3.jpg"
-	            },
+      },
       {
         "name": "CIUDAD MAGAZINE",
         "uri": "https://edge-live17-hr.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd",
@@ -235,7 +235,7 @@
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.ibb.co/WVrgyCt/unnamed-2.jpg"
-     },
+      },
       {
         "name": "GRAN HERMANO ARGENTINA",
         "uri": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
@@ -246,24 +246,23 @@
         "uri": "http://content-asae1-up-1.uplynk.com/4bfeeae627a24d6a9f0e1ded7b020df0/f.m3u8",
 		"icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
  
-  },
-  {
+       },
+       {
 
-   "name": "TEATRIX TV OPC 2",
- "uri": "http://mundialtvdigital.com/xd/teatrix.m3u8",
+        "name": "TEATRIX TV OPC 2",
+        "uri": "http://mundialtvdigital.com/xd/teatrix.m3u8",
 		"icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
-  },
-  {
+       },
+       {
 
-   "name": "TEATRIX TV OPC 3",
- "uri": "http://content-asae1-up-2.uplynk.com/399cf69cc18842dea9046c9f7ed07dbf/e.m3u8",
+      "name": "TEATRIX TV OPC 3",
+      "uri": "http://content-asae1-up-2.uplynk.com/399cf69cc18842dea9046c9f7ed07dbf/e.m3u8",
 		"icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
 	  
       }
     ]
   },
   {
-
     "name": "tv argentina interior",
     "samples": [
       {
@@ -284,7 +283,7 @@
         "uri": "https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8",
 		"icono": "http://static.tvar.io/imagenes/sptv32.png"
       },
-	  {
+      {
         "name": "GEN TV",
         "uri": "https://inliveserver.com:1936/14056/14056/playlist.m3u8",
 		"icono": "https://latinartv.com/sites/default/files/logos/gentv.jpg"
@@ -300,7 +299,7 @@
 	 "icono": "https://static-cdn.jtvnw.net/jtv_user_pictures/c14e9545-b484-473a-b31d-680b95e4de4c-profile_image-70x70.png"
 
       },
-	  {
+    v {
         "name": "CANAL 11 MACHAGAY CHACO",
         "uri": "https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8",
 		"icono": "https://oncedigital.com.ar/wp-content/uploads/2022/11/cropped-qqqqqq.png"
@@ -310,7 +309,7 @@
         "uri": "https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8",
 		"icono": "https://static.tvar.io/imagenes/canal9santacruz.png"
       },
-	  {
+      {
         "name": "MULTIPLATAFORMA FENIX LA RIOJA",
         "uri": "http://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8",
 		"icono": "https://static.tvar.io/imagenes/fenixtv.jpeg"
