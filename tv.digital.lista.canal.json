@@ -1270,11 +1270,7 @@
         "name": "Canal 4 San Juan",
         "uri" : "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
 		"icono": "https://static.tvar.io/imagenes/canal4sanjuan.png"
-      },
-      {
-        "name": "Canal 30 San juan",
-        "uri" : "https://y.tvar.io/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@canal30sanjuantv",
-		"icono": "https://static.tvar.io/imagenes/canal30sanjuan.png"
+
       },
       {
         "name": "Canal 34 San juan",
