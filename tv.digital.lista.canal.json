@@ -39,6 +39,18 @@
       "name": "PELICULAS EN CINES",
        "samples": [
       {
+	            "name": "Gritos Del Monday - Película",
+        "uri": "https://hls.ondemandlatino.com/v2/202203/latino/movie/screen/Gritos_del_Monday_Full_HD-2022-03-24-21-23-10.mp4/HLS/modified_playlist_1080p.m3u8",
+		"icono": "https://d2y2efdi5wgkcl.cloudfront.net/fit-in/880x1280/media-io/2022/5/25/portrait_content__gr.cd021878.jpg"
+	      
+      },
+      {  
+	            "name": "Indiana Jones 5",
+        "uri": "https://onedrive.live.com/download?resid=F5B8BEF483E98AED%212013&authkey=!AK7ODi3UgHStZ5k",
+		"icono": "https://i.ibb.co/QbFzTVb/images-q-tbn-ANd9-Gc-TFFRqn-OIa2-Y6h8r-DHVxz-Ff-Pb5mj-Ad-N94h-ya-Xk9ib-Fxsdk3-EY.jpg"
+	      
+      },
+      {  
         "name": "BARBIE LA PELICULA 2023",
         "uri": "https://corsproxy.io/?url=http://localhost-personal.duckdns.org/googleapi/google.php?video=VAiJvnsyeET_layFarr3f9sSlFkWDJrRILtcQy8zyGXYbNWdeTtYySixBwTh1SIuxB.SCWvMi5kZ5RGNs48ptY3Jjop5amJ_RKZZRE_cJ1KLyuz3ZXiLIYvLXFwrCnJv",
 		"icono": "https://image.tmdb.org/t/p/original/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg"
