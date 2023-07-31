@@ -1241,8 +1241,8 @@
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D",
 		"icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg"
-  },
-  {
+      },
+      {
         "name": "SILVER CHANNEL",
         "uri": "https://panel.dattalive.com/8158/8158/chunklist_w747032926.m3u8",
 		"icono": "https://mundialtvdigital.com/silver.jpeg"
@@ -1270,13 +1270,13 @@
         "name": "Canal 8 San Juan",
         "uri" : "https://mtd.llc/canal8sanjuan.m3u8",
 		"icono": "https://static.tvar.io/imagenes/canalochosanjuan.png"
-  },
-  {
+      },
+      {
         "name": "Canal 4 San Juan",
         "uri" : "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
 		"icono": "https://static.tvar.io/imagenes/canal4sanjuan.png"
-  },
-  {
+      },
+      {
         "name": "Canal 30 San juan",
         "uri" : "https://y.tvar.io/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@canal30sanjuantv"
 		"icono": "https://static.tvar.io/imagenes/canal30sanjuan.png"
@@ -1285,8 +1285,8 @@
         "name": "Canal 34 San juan",
         "uri": "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8",
 		"icono": "https://static.tvar.io/imagenes/34sanjuan.png"
-  },
-  {
+      },
+      {
         "name": "Albardon TV",
         "uri": "https://vd01.streaminghd.net.ar:3451/stream/play.m3u8",
 		"icono": "https://static.tvar.io/imagenes/albardontv.png"
