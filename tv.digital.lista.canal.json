@@ -13,7 +13,7 @@
 		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
       },
       {
-        "name": "TIGO SOLO EVENTO",
+        "name": "TIGO SOLO EVENTOS",
         "uri": "https://ssh101.bozztv.com/ssh101/famustvesputo/chunks.m3u8",
 		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"  
       },
@@ -1268,7 +1268,7 @@
       },
       {
         "name": "Canal 8 San Juan",
-        "uri" : "https://mtd.llc/canal8sanjuan.m3u8,
+        "uri" : "https://mtd.llc/canal8sanjuan.m3u8",
 		"icono": "https://static.tvar.io/imagenes/canalochosanjuan.png"
   },
   {
