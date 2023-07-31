@@ -334,7 +334,7 @@
       },
       {
         "name": "Telesol San Juan",
-        "uri": "https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8?nimblesessionid=698951",
+        "uri": "https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8",
 		"icono": "https://static.tvar.io/imagenes/telesol.png"
       },
       {
