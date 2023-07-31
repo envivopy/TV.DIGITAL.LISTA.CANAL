@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO SPORTS",
+    "name": "TIGO0 SPORTS",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -258,7 +258,7 @@
    "name": "TEATRIX TV OPC 3",
    "uri": "http://content-asae1-up-2.uplynk.com/399cf69cc18842dea9046c9f7ed07dbf/e.m3u8",
 		"icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
-	  
+	                 
       }
     ]
   },
@@ -351,7 +351,7 @@
       {
         "name": "Canal 8 San Juan",
         "uri" : "https://mtd.llc/canal8sanjuan.m3u8",
-		"icono": "https://static.tvar.io/imagenes/canalochosanjuan.png"
+		"icono": "https://static.tvar.io/imagenes/canalochosanjuan.png",
       },
       {
         "name": "Canal 4 San Juan",
@@ -360,7 +360,7 @@
       },
       {
         "name": "Canal 30 San juan",
-        "uri" : "https://y.tvar.io/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@canal30sanjuantv"
+        "uri" : "https://y.tvar.io/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@canal30sanjuantv",
 		"icono": "https://static.tvar.io/imagenes/canal30sanjuan.png"
       },
       {
