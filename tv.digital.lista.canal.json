@@ -1,24 +1,19 @@
 [
   {
-    "name": "SI QUERES SEGUIR DISFRUTANDO DE NUESTRA PROGRAMACION",
+    "name": "TIGO:SPORTS",
     "samples": [
       {
-        "name": "nuevas actualisaciones",
-        "uri": "https://",
-		"icono": "https://as2.ftcdn.net/v2/jpg/03/05/11/39/1000_F_305113944_1zd03EiVvFQ6NgXPAq4qso7CU6asT1AL.jpg"     
-               
+        "name": "TIGO sports",
+        "uri": "https://tgn.bozztv.com/ssh101/ssh101/viralsports/playlist.m3u8",
+		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
+     },
+      { 
+
+	         "name": "TIGO OPC 2",
+        "uri": "https://vsd102.mycdn.me/hls/5236816939539.m3u8/sig/7W3yY_IyFxg/expires/1691094662357/srcIp/190.175.51.109/urls/185.226.53.97/clientType/1/srcAg/UNKNOWN_ANDROID/mid/7030884212243/5236816939539_high/index.m3u8",
+		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"        
+	                 
       }
-    ]
-  },
-  {
-      "name": "PONTE EN CONTACTO CON TU PROVEEDOR",
-       "samples": [
-      {
-	 "name": "disculpen las molestias todo es para mejorar el servicio",
-        "uri": "https://",
-		"icono": "https://as2.ftcdn.net/v2/jpg/03/05/11/39/1000_F_305113944_1zd03EiVvFQ6NgXPAq4qso7CU6asT1AL.jpg"
-            
-       }
     ]
   },
   {
