@@ -3,8 +3,9 @@
     "name": "SI QUERES SEGUIR DISFRUTANDO DE NUESTRA PROGRAMACION",
     "samples": [
       {
-        "name": "NUEVAS ACTUALIZACIONES ",
-   
+        "name": "nuevas actualisaciones",
+        "uri": "https://",
+		"icono": "https://as2.ftcdn.net/v2/jpg/03/05/11/39/1000_F_305113944_1zd03EiVvFQ6NgXPAq4qso7CU6asT1AL.jpg"     
                
       }
     ]
@@ -13,8 +14,9 @@
       "name": "PONTE EN CONTACTO CON TU PROVEEDOR",
        "samples": [
       {
-	 "name": "DISCULPEN LAS MOLESTIAS TODO ES PARA MEJOARAR EL SERVICIO",
-
+	 "name": "disculpen las molestias todo es para mejorar el servicio",
+        "uri": "https://",
+		"icono": "https://as2.ftcdn.net/v2/jpg/03/05/11/39/1000_F_305113944_1zd03EiVvFQ6NgXPAq4qso7CU6asT1AL.jpg"
             
        }
     ]
