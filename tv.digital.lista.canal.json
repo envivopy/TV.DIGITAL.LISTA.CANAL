@@ -5,11 +5,12 @@
     "samples": [
       {
         "name": "PONTE EN CONTACTO CON TU PROVEEDOR",
-        "uri": "https://"
+        "samples": [
       },
       {
         "name": "DESCARGA LA ULTIVA VERSION DE NUESTA APLICACIÓN",
-        "uri": "https://bit.ly/"
+           "samples": [
+      {
 
       }
     ]
