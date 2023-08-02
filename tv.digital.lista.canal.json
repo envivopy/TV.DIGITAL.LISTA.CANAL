@@ -1,17 +1,24 @@
 [
   {
-
     "name": "SI QUERES SEGUIR DISFRUTANDO DE NUESTRA PROGRAMACION",
     "samples": [
       {
-        "name": "PONTE EN CONTACTO CON TU PROVEEDOR",
-        "samples": [
-      {
-        "name": "DESCARGA LA ULTIVA VERSION DE NUESTA APLICACIÓN",
-           "samples": [
-      {
-
+        "name": "TIGO BOLIVIA",
+        "uri": "https://tgn.bozztv.com/ssh101/ssh101/soccerbolivia/playlist.m3u8",
+		"icono": "https://i.ibb.co/nc21MFQ/1.jpg"     
+               
       }
+    ]
+  },
+  {
+      "name": "PONTE EN CONTACTO CON TU PROVEEDOR",
+       "samples": [
+      {
+	 "name": "Gritos Del Monday - Película",
+        "uri": "https://hls.ondemandlatino.com/v2/202203/latino/movie/screen/Gritos_del_Monday_Full_HD-2022-03-24-21-23-10.mp4/HLS/modified_playlist_1080p.m3u8",
+		"icono": "https://d2y2efdi5wgkcl.cloudfront.net/fit-in/880x1280/media-io/2022/5/25/portrait_content__gr.cd021878.jpg"
+            
+       }
     ]
   },
   {
