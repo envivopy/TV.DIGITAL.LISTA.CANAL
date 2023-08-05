@@ -1,6 +1,6 @@
 [
   {
-    "name": "TIGO:SPORTSS",
+    "name": "TIGO:SPORTSSS",
     "samples": [
       {
         "name": "TIGO BOLIVIA SOLO EVENTOS",
@@ -46,7 +46,18 @@
         "name": "Marilina atreverse a Soñar la Serie parte 2",
         "uri": "https://vd466.mycdn.me/?expires=1691124955808&srcIp=190.175.20.202&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.80&type=4&sig=hqPHZ88jjvQ&ct=14&urls=45.136.22.35&clientType=1&zs=43&id=5237741718035",
 		"icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
-     },
+      },
+      {
+        "name": "Tiburón Negro (2023) The Black Demon",
+        "uri": "https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=6afd0923ece60022a1fd4d747f3067fe8adac078&st.mq=4&st.mvid=7037284321811&st.ip=190.175.20.202&st.dla=on&st.exp=1691373100410&st.hls=off&_prevCmd=movieLayer&tkn=5787.m3u8",
+		"icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrwSpPPBTIDKJUaU1-FbCw_mn-bpFGzT_JwvCoaVby08uu4TGwVQlHRgs9GQcVKqQSp4bLOVwyndkSr3KaZfMqQa9KbwBC55AdnA9uw4SZD7M6xtYNsDe87ogq3xQ21eJtEuRHZe3gF1gLwB2uMpj5b8zro9Ob6inG2vRDsSowFARNvlMfXDDPKegLSfn7/s1600/images%20-%202023-07-30T124237.634.jpeg"
+	      
+      },
+      {
+        "name": "The Devil Comes At Night (2023)",
+        "uri": "https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=ce4c977788e692b2451f107cf42551f1700855b6&st.mq=4&st.mvid=7037306210835&st.ip=190.175.20.202&st.dla=on&st.exp=1691374642709&st.hls=off&_prevCmd=movieLayer&tkn=4460.m3u8",
+		"icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7Bqx1wJ8fNt5D_0YmbDaJma-cK0BEQqBZntHF0ENSw-Qkg8tzWtiwW9SUXLmS00_jlqbxZxG9V5hTAjLir0evqBQNT8Bbw-z7boo0TrY-Eh6XZY4OCOCojta2JuioyNvtks1bccQBDRN_9cqm4ZYY6PyAq-FlyTiz6q99qIy6dEwQhO-6ZNBiNuwPXNju/s1600/images%20-%202023-07-14T004642.821.jpeg"
+      },
       {
         "name": "Atrapaalmas (2023)",
         "uri": "https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=3c97392dfcf845c2bed5dee2650840dbc84b15d3&st.mq=2&st.mvid=6505783691915&st.ip=190.175.20.202&st.dla=on&st.exp=1691292398631&st.hls=on&_prevCmd=movieLayer&tkn=2833.m3u8",
@@ -62,6 +73,12 @@
       {     
         "name": "BARBIE LA PELICULA 2023",
         "uri": "https://onedrive.live.com/download?resid=74C203FB085DB740%21107&authkey=!ADU6Hm80nUIIFgw",
+		"icono": "https://image.tmdb.org/t/p/original/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg"
+	      	      
+      },     
+      {     
+        "name": "BARBIE LA PELICULA 2023 OPC 2",
+        "uri": "https://paypxx.click/video/3umgig187chg/file.m3u8",
 		"icono": "https://image.tmdb.org/t/p/original/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg"
      },     
      {   
@@ -591,6 +608,44 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/z1j68op8dtq50sr/KEY.LATELE.json",
 		"icono": "https://i.ibb.co/R7c5mZN/latele-1.jpg"
+      }
+    ]
+  },
+  {
+
+    "name": "BRASIL",
+    "samples": [
+      {
+        "name": "GLOBO TV",
+        "uri" : "https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/37ermryrinil0et4hm7pa/KEY.GLOBO.json?rlkey=5vlhvibqwcb5fa6nidcwy4inv&dl=0",
+		"icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg" 
+      },
+      {
+        "name": "Record News",
+        "uri" : "https://y.tvar.io/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@recordnews",
+		"icono": "https://yt3.googleusercontent.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt=s900-c-k-c0x00ffffff-no-rj"  
+      },
+      {
+        "name": "CNN Brasil",
+        "uri" : "https://y.tvar.io/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@CNNbrasil",
+		"icono": "https://play-lh.googleusercontent.com/8ch6kAhf2Ydd34PPqtOGh-troE-Zee9LxH-xZVlZml7YwNGyA1Nq2xXER-84CZHmoNyw"  
+      },
+      {
+        "name": "SBT",
+        "uri" : "http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8",
+		"icono": "https://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg"  
+      },
+      {
+        "name": "TVNOVAPLAY",
+        "uri" : "https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8",
+		"icono": "https://i0.wp.com/girotvonline.com/wp-content/uploads/2022/11/tv-nova-play.png?fit=1024%2C768&ssl=1"  
+      },
+      {
+        "name": "CONECTV",
+        "uri" : "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
+		"icono": "https://play-lh.googleusercontent.com/_z8L3qUly2i3Flg-aaI8M2VvHLifKp5Fo_qTMM4ICeDTqsnwcfEy_QYvt8OHt7kRL00"  
       }
     ]
   },
