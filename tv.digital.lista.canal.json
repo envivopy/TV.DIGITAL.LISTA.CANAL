@@ -1,19 +1,16 @@
 [
   {
-    "name": "El Regreso de Sombras en la noche",
+
+    "name": "SI QUERES SEGUIR DISFRUTANDO DE NUESTRA PROGRAMACION",
     "samples": [
       {
-        "name": "PLATA YVYGUY",
-        "uri" : "https://archive.org/download/plata-yvy-guype/pl%C3%A1ta%20yvy%20gu%C3%BDpe.mp4",
-		"icono": "https://i.ibb.co/89JJzw7/photo-2023-08-05-19-50-16.jpg"
-     },
-      { 
+        "name": "PONTE EN CONTACTO CON TU PROVEEDOR",
+        "uri": "https://"
+      },
+      {
+        "name": "DESCARGA LA ULTIVA VERSION DE NUESTA APLICACIÓN",
+        "uri": "https://bit.ly/"
 
-        "name": "Jasy Jatere",
-        "uri" : "https://archive.org/download/jasy-jatere/Jasy%20Jatere.mp4",
-		"icono": "https://i.ibb.co/89JJzw7/photo-2023-08-05-19-50-16.jpg" 
-      
-	  
       }
     ]
   },
