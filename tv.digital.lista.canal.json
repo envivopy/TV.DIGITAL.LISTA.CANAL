@@ -29,15 +29,14 @@
       { 
         "name": "TIGO OPC 4",
         "uri": "https://b7i4j3n3.stackpathcdn.com/dlive-cctuhqwzfi/1691268278/src/live.m3u8",
-		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"        
-	  
+		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"          
       }
     ]
   },
   {
-    "name": "El Regreso de Sombras en la noche",
-    "samples": [
-      {
+        "name": "El Regreso de Sombras en la noche",
+       "samples": [
+        {
         "name": "PLATA YVYGUY",
         "uri" : "https://archive.org/download/plata-yvy-guype/pl%C3%A1ta%20yvy%20gu%C3%BDpe.mp4",
 		"icono": "https://i.ibb.co/89JJzw7/photo-2023-08-05-19-50-16.jpg"  
@@ -60,15 +59,14 @@
       {
         "name": "La Casa Del Horror",
         "uri" : "https://archive.org/download/la-casa-del-horror/La%20Casa%20del%20Horror.mp4",
-		"icono": "https://i.ibb.co/89JJzw7/photo-2023-08-05-19-50-16.jpg"  
-	  
+		"icono": "https://i.ibb.co/89JJzw7/photo-2023-08-05-19-50-16.jpg"    
       }
     ]
   },
   {
       "name": "PELICULAS EN CINES",
        "samples": [
-      {
+        {
 	 "name": "Marilina atreverse a Soñar la Serie parte 1 ",
         "uri": "https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=187ae5eeb0bdb13f921b0774bade5ae2c4277383&st.mq=2&st.mvid=7031504112147&st.ip=190.175.20.202&st.dla=on&st.exp=1691214731915&st.hls=on&_prevCmd=movieLayer&tkn=1603.m3u8",
 		"icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg" 
