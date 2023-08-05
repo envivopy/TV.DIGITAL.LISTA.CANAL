@@ -1,16 +1,19 @@
 [
   {
-
-    "name": "SI QUERES SEGUIR DISFRUTANDO DE NUESTRA PROGRAMACION",
+    "name": "CONTACTATE CON TU PROVEEDOR SI QUERES SEGUIR DISFRUTANDO DE NUESTRA PROGRAMACION",
     "samples": [
       {
-        "name": "PONTE EN CONTACTO CON TU PROVEEDOR",
-        "uri": "https://"
-      },
-      {
-        "name": "DESCARGA LA ULTIVA VERSION DE NUESTA APLICACIÓN",
-        "uri": "https://bit.ly/"
+        "name": "ACTUALIZACION DDISPONIBLES",
+        "uri": "https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8",
+		"icono": "https://i.ibb.co/nc21MFQ/1.jpg"
+     },
+      { 
 
+        "name": "DISCULPEN LA MOLESTIAS",
+        "uri": "https://tgn.bozztv.com/ssh101/ssh101/valhalla01/playlist.m3u8",
+		"icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
+      
+	  
       }
     ]
   },
